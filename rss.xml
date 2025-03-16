@@ -6,11 +6,13 @@
   <description>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</description>
   <language>ja</language>
   <itunes:image href="https://lhr385.github.io/scotland-news-podcast/uklog_gtts_artwork.jpg" />
-  <itunes:category text="Daily News"/>
+  <itunes:category text="News"/>
+  <itunes:summary>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</itunes:summary>
+  <itunes:author>桐野美也子</itunes:author>
   <item>
     <title>スコットランド・ニュース 20250316</title>
     <description>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</description>
-    <pubDate>Sun, 16 Mar 2025 10:07:24 +0000</pubDate>
+    <pubDate>Sun, 16 Mar 2025 10:17:08 +0000</pubDate>
     <enclosure url="https://lhr385.github.io/scotland-news-podcast/uklog_gtts_20250316.mp3" type="audio/mpeg" />
     <guid>https://lhr385.github.io/scotland-news-podcast/uklog_gtts_20250316.mp3</guid>
     <itunes:duration>12:39</itunes:duration>
