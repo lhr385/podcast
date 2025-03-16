@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
   <title>スコットランド・ニュース #uklog by 桐野美也子</title>
-  <link>https://[USERNAME].github.io/[REPO]/rss.xml</link>
+  <link>https://lhr385.github.io/scotland-news-podcast/rss.xml</link>
   <description>スコットランド国内のニュースを全自動収集し、日本語に翻訳してポッドキャストとしてお届けしています。</description>
   <language>ja</language>
-  <itunes:image href="https://[USERNAME].github.io/[REPO]/uklog_gtts_artwork.jpg" />
+  <itunes:image href="https://lhr385.github.io/scotland-news-podcast/uklog_gtts_artwork.jpg" />
   <item>
     <title>スコットランド・ニュース 20250316</title>
     <description>スコットランド国内のニュースを全自動収集し、日本語に翻訳してポッドキャストとしてお届けしています。</description>
-    <pubDate>Sun, 16 Mar 2025 09:46:27 +0000</pubDate>
-    <enclosure url="https://[USERNAME].github.io/[REPO]/uklog_gtts_20250316.mp3" type="audio/mpeg" />
-    <guid>https://[USERNAME].github.io/[REPO]/uklog_gtts_20250316.mp3</guid>
+    <pubDate>Sun, 16 Mar 2025 09:53:24 +0000</pubDate>
+    <enclosure url="https://lhr385.github.io/scotland-news-podcast/uklog_gtts_20250316.mp3" type="audio/mpeg" />
+    <guid>https://lhr385.github.io/scotland-news-podcast/uklog_gtts_20250316.mp3</guid>
   </item>
 </channel>
 </rss>
