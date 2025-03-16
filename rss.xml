@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel>
-  <title>スコットランド・ニュース #uklog by 桐野美也子</title>
-  <link>https://unracer.com/f1/</link>
-  <description>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</description>
-  <language>ja</language>
-  <itunes:image href="https://lhr385.github.io/scotland-news-podcast/uklog_gtts_artwork.jpg" />
-  <itunes:category text="News">
-    <itunes:category text="Daily News"/>
-  </itunes:category>
-  <itunes:summary>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</itunes:summary>
-  <itunes:author>桐野美也子</itunes:author>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:owner>
-    <itunes:name>桐野美也子</itunes:name>
-    <itunes:email>385.london+scotlandnews@gmail.com</itunes:email>
-  </itunes:owner>
-  <itunes:type>episodic</itunes:type>
-  <item>
-    <title>スコットランド・ニュース 20250316</title>
-    <description>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>スコットランド・ニュース #uklog by 桐野美也子</title><link>https://unracer.com/f1/</link><language>ja</language><copyright>© 2025 Miyako Kirino</copyright><itunes:author>桐野美也子</itunes:author><itunes:summary>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</itunes:summary><description>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</description><itunes:explicit>no</itunes:explicit><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/scotland-news-podcast/uklog_gtts_artwork.jpg" /><image><url>https://lhr385.github.io/scotland-news-podcast/uklog_gtts_artwork.jpg</url></image><item><title>スコットランド・ニュース 20250316</title><link>https://unracer.com/f1/</link><guid>20250316</guid><pubDate>Sun, 16 Mar 2025 12:20:30 GMT</pubDate><itunes:author>桐野美也子</itunes:author><itunes:summary>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</itunes:summary><description>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。
 
 1. ダンディー・ダービーの数字
 The Dundee derby in numbers
@@ -59,14 +39,6 @@ https://www.bbc.com/sport/football/articles/c20lj227p4xo
 
 10. グレン・サンノックスフェリーの乗客が船体の亀裂に反応
 Glen Sannox ferry passengers react to hull crack
-https://www.bbc.com/news/videos/c14jm1210lro</description>
-    <pubDate>Sun, 16 Mar 2025 10:47:35 +0000</pubDate>
-    <enclosure url="https://lhr385.github.io/scotland-news-podcast/uklog_gtts_20250316.mp3" type="audio/mpeg" length="2310765" />
-    <guid>https://lhr385.github.io/scotland-news-podcast/uklog_gtts_20250316.mp3</guid>
-    <link>https://lhr385.github.io/scotland-news-podcast/uklog_gtts_20250316.mp3</link>
-    <itunes:duration>9:37</itunes:duration>
-    <itunes:author>桐野美也子</itunes:author>
-    <itunes:summary>スコットランド国内のニュースを全自動収集し、ポッドキャストとしてお届けしています。</itunes:summary>
-  </item>
-</channel>
-</rss>
+https://www.bbc.com/news/videos/c14jm1210lro
+
+</description><enclosure url="https://lhr385.github.io/scotland-news-podcast/uklog-final.mp3" length="2303469" type="audio/mpeg" /><itunes:duration>575</itunes:duration></item></channel></rss>
