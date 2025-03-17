@@ -40,4 +40,11 @@ body {
     margin-top: 50px;
     font-size: 0.9em;
     color: #999;
-  }  
+  }
+  .description {
+    white-space: pre-wrap;
+    background-color: #f9f9f9;
+    padding: 1em;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
