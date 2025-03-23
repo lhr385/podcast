@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>🏴スコットランドのニュースを🇯🇵日本語に翻訳し、月曜から金曜まで毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴スコットランドのニュースを🇯🇵日本語に翻訳し、月曜から金曜まで毎日配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/debug/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/debug/artwork.jpg</url></image><item><title>スコットランド・ニュース 20250323</title><link>https://lhr385.github.io/podcast/debug/episode/uklog_gtts_20250323.html</link><guid>https://lhr385.github.io/podcast/debug/episode/uklog_gtts_20250323.html</guid><pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴スコットランドのニュースを🇯🇵日本語に翻訳し、月曜から金曜まで毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴スコットランドのニュースを🇯🇵日本語に翻訳し、月曜から金曜まで毎日配信。独自のニュース解説もつけています。
 
 1. Dummy Title JA
-High-rise flats demolition to alter Glasgow skyline
+Exclusion zone in force ahead of high-rise demolition
 https://www.bbc.com/news/articles/c93n44x473go
 
 2. Dummy Title JA
@@ -33,4 +33,4 @@ https://www.bbc.com/news/articles/cy83mdz4zvko
 Motorcyclist dies after crash in South Ayrshire
 https://www.bbc.com/news/articles/c9vy49vgv7ro
 
-</description><enclosure url="https://lhr385.github.io/podcast/debug/episode/uklog_gtts_20250323.mp3" length="252621" type="audio/mpeg" /><itunes:duration>1:03</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/debug/episode/uklog_gtts_20250323.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://lhr385.github.io/podcast/debug/episode/uklog_gtts_20250323.mp3" length="255021" type="audio/mpeg" /><itunes:duration>1:03</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/debug/episode/uklog_gtts_20250323.txt" type="text/plain" language="ja" /></item></channel></rss>
