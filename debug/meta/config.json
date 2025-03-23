@@ -20,6 +20,8 @@
       "https://www.heraldscotland.com/news/rss/",
       "https://www.theguardian.com/uk/scotland/rss",
       "https://news.stv.tv/feed"
-    ]
+    ],
+    "opening_talk": "{today}のデバッグニュースをお伝えします。",
+    "ending_talk": "以上、{today}のデバッグニュースをお伝えしました。"
   }
   
