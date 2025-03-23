@@ -1,0 +1,25 @@
+{
+    "podcast_title": "スコットランド・ニュース - Japanese Edition of Scottish News",
+    "podcast_description": "🏴スコットランドのニュースを🇯🇵日本語に翻訳し、月曜から金曜まで毎日配信。独自のニュース解説もつけています。",
+    "rss_url": "https://lhr385.github.io/podcast/scotnews/rss.xml",
+    "podcast_link": "https://lhr385.github.io/podcast/scotnews/index.html",
+    "podcast_language": "ja",
+    "podcast_copyright": "© 2025 KM",
+    "podcast_author": "KM",
+    "podcast_email": "385.london+scotnews@gmail.com",
+    "podcast_category": [
+      { "main": "News", "sub": "Daily News" }
+    ],
+    "tts_models": [
+      "ja-JP-Neural2-B",
+      "ja-JP-Neural2-C",
+      "ja-JP-Neural2-D"
+    ],
+    "rss_feeds": [
+      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+      "https://www.heraldscotland.com/news/rss/",
+      "https://www.theguardian.com/uk/scotland/rss",
+      "https://news.stv.tv/feed"
+    ]
+  }
+  
