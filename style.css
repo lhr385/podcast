@@ -24,7 +24,6 @@ li {
   margin-bottom: 1.5em; /* 下の余白 */
   margin-right: 1.5em;  /* 右の余白 */
   width: 250px; /* 幅指定 */
-  height: 350px; /* 高さ指定 */
   padding: 1.2em;
   background-color: #f4f4f4; /* 背景色 */
   border-radius: 8px; /* 角を丸く */
