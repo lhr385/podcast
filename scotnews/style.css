@@ -9,39 +9,6 @@ body {
   h1, h2 {
     text-align: center;
   }
-/* ベースのリスト設定 */
-ul {
-  list-style: none;
-  padding-left: 0;
-  display: flex; /* 横並びにする */
-  flex-wrap: wrap; /* アイテムが横に並んだ後、折り返す */
-  justify-content: center; /* センタリング */
-  margin: 0 auto;
-}
-
-/* リストアイテムの設定 */
-li {
-  margin-bottom: 1.5em; /* 下の余白 */
-  margin-right: 1.5em;  /* 右の余白 */
-  width: 250px; /* 幅指定 */
-  height: 350px; /* 高さ指定 */
-  padding: 1.2em;
-  background-color: #f4f4f4; /* 背景色 */
-  border-radius: 8px; /* 角を丸く */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 影をつけて立体感を */
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* アイテムを中央揃え */
-  justify-content: space-between; /* アイテム間のスペース調整 */
-  text-align: center; /* テキストを中央揃え */
-  transition: transform 0.3s ease-in-out; /* ホバー時のアニメーション */
-}
-
-/* ホバー時のエフェクト */
-li:hover {
-  transform: translateY(-5px); /* ほんの少し浮かせる */
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* 影を強調 */
-}
   a {
     color: #007acc;
     text-decoration: none;
@@ -75,4 +42,29 @@ li:hover {
     border-radius: 8px;
     margin-top: 20px;
     line-height: 1.8;
+  }
+
+  /* ベースのリスト設定 */
+  ul {
+    list-style: none;
+    padding-left: 0;
+    display: block; /* 横並びではなく縦並び */
+    margin: 0 auto;
+    text-align: left; /* 左寄せ */
+  }
+
+  /* リストアイテムの設定 */
+  li {
+    margin-bottom: 1.2em; /* 下の余白 */
+    padding: 1em;
+    background-color: #f4f4f4; /* 背景色 */
+    border-radius: 8px; /* 角を丸く */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* 影をつけて立体感を */
+    transition: transform 0.3s ease-in-out; /* ホバー時のアニメーション */
+  }
+
+  /* ホバー時のエフェクト */
+  li:hover {
+    transform: translateY(-3px); /* ほんの少し浮かせる */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* 影を強調 */
   }

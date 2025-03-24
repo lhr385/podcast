@@ -12,9 +12,8 @@
       { "main": "News", "sub": "Daily News" }
     ],
     "tts_models": [
-      "ja-JP-Neural2-B",
-      "ja-JP-Neural2-C",
-      "ja-JP-Neural2-D"
+      "ja-JP-Chirp3-HD-Aoede",
+      "ja-JP-Chirp3-HD-Charon"
     ],
     "rss_feeds": [
       "https://feeds.bbci.co.uk/news/scotland/rss.xml",
