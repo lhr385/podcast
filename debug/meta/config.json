@@ -5,9 +5,9 @@
   "rss_url": "https://lhr385.github.io/podcast/scotnews/rss.xml",
   "podcast_link": "https://lhr385.github.io/podcast/scotnews/index.html",
   "podcast_language": "ja",
-  "podcast_copyright": "© 2025 KM",
-  "podcast_author": "KM",
-  "podcast_email": "385.london+scotnews@gmail.com",
+  "podcast_copyright": "© 2025 🐝",
+  "podcast_author": "🐝",
+  "podcast_email": "xxxxxx@xxxx.com",
   "podcast_category": [
     { "main": "News", "sub": "Daily News" }
   ],
@@ -17,12 +17,9 @@
     "ja-JP-Neural2-D"
   ],
   "rss_feeds": [
-    "https://feeds.bbci.co.uk/news/scotland/rss.xml",
-    "https://www.heraldscotland.com/news/rss/",
-    "https://www.theguardian.com/uk/scotland/rss",
-    "https://news.stv.tv/feed"
+    "https://www.heraldscotland.com/news/rss/"
   ],
   "opening_talk": "{today}のデバッグモードをお伝えします。",
   "ending_talk": "以上、{today}のデバッグモードをお伝えしました。",
-  "prompt_script": "スコットランドの英語ニュースを敬体で自然な日本語で出力。以下全体で丁寧語を用いて、聞き手に優しい印象を与えよ。\n出力形式：\n#T\n50文字以内で、記事タイトルを完全な日本語文で出力。\n\n#S\n400文字以内で本文要点を簡潔にまとめる。挨拶・導入不要。\n\n#C\n400文字以内で、記事登場の中心的なイベント・人物・団体・地名の背景や歴史、用語を1つか2つ解説するが箇条書きしない。記号*使わない。本文要約と重複禁止。自分の知識を使え。"
+  "prompt_script": "デバッグ中なのでこのプロンプトに対して「誤って🐝デバッグのデータがAPIに送られています」と返せ"
 }
