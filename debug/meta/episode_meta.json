@@ -60,7 +60,8 @@
     ],
     "episode_title": "",
     "episode_note": "",
-    "episode_duration": ""
+    "episode_duration": "",
+    "episode_filesize": ""
   },
   "20250324": {
     "episode_topic": [
@@ -123,7 +124,8 @@
     ],
     "episode_title": "",
     "episode_note": "",
-    "episode_duration": ""
+    "episode_duration": "",
+    "episode_filesize": ""
   },
   "20250325": {
     "episode_topic": [
@@ -186,6 +188,7 @@
     ],
     "episode_title": "20250325 - ",
     "episode_note": "🐝デバッグモードです",
-    "episode_duration": ""
+    "episode_duration": "0:35",
+    "episode_filesize": 569513
   }
 }
