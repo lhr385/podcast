@@ -50,7 +50,7 @@ body {
     padding-left: 0;
     display: block; /* 横並びではなく縦並び */
     margin: 0 auto;
-    text-align: left; /* 左寄せ */
+    text-align: center; /* 左寄せ */
   }
 
   /* リストアイテムの設定 */
