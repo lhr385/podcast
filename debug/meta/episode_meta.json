@@ -1,118 +1,191 @@
 {
-  "20250323": [
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Kenny McLean admits Scotland can make no excuses after Greece defeat",
-      "url": "https://news.stv.tv/sport/kenny-mclean-admits-scotland-can-make-no-excuses-after-greece-defeat",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    },
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Third teenager arrested over Amen Teklay death",
-      "url": "https://www.bbc.com/news/articles/cy05z9rl10po",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    },
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Steve Clarke identifies lessons to learn before Scotland meet Greece again",
-      "url": "https://news.stv.tv/sport/steve-clarke-identifies-lessons-to-learn-before-scotland-meet-greece-again",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    },
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Slick Greece stroll to win that relegates Scotland in Nations League",
-      "url": "https://www.bbc.com/sport/videos/c3e4q0pjgwgo",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    },
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Second teen, 16, charged in connection with death of schoolboy Amen Teklay",
-      "url": "https://news.stv.tv/west-central/second-teen-16-charged-in-connection-with-death-of-schoolboy-amen-teklay",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    },
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Scotland crash to defeat against Greece and suffer Nations League relegation",
-      "url": "https://news.stv.tv/sport/scotland-crash-to-defeat-against-greece-and-suffer-nations-league-relegation",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    },
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Two women charged in connection with multiple pickpocketing incidents in Arbroath and Dundee",
-      "url": "https://news.stv.tv/north/two-women-charged-in-connection-with-multiple-pickpocketing-incidents-in-arbroath-and-dundee",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    },
-    {
-      "title_ja": "Dummy Title JA",
-      "title": "Chancellor urged to prioritise public spending in UK spring statement",
-      "url": "https://news.stv.tv/politics/chancellor-urged-to-prioritise-public-spending-in-uk-spring-statement",
-      "summary_ja": "Dummy Summary JA",
-      "comment_ja": "Dummy Comment JA"
-    }
-  ],
-  "20250324": [
-    {
-      "title_ja": "",
-      "title": "From a house to a high-end apartment: One family’s move to Stewart Gardens",
-      "url": "https://www.heraldscotland.com/news/25031490.house-high-end-apartment-one-familys-move-stewart-gardens/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    },
-    {
-      "title_ja": "",
-      "title": "Emergency services on scene after three-vehicle crash outside Glasgow hospital",
-      "url": "https://www.heraldscotland.com/news/25031444.emergency-services-scene-crash-outside-glasgow-hospital/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    },
-    {
-      "title_ja": "",
-      "title": "Alan Cumming to host Bafta ceremony for first time",
-      "url": "https://www.heraldscotland.com/news/25031316.alan-cumming-host-bafta-ceremony-first-time/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    },
-    {
-      "title_ja": "",
-      "title": "Diary of Scottish artist discovered nearly 50 years after his death",
-      "url": "https://www.heraldscotland.com/news/25031275.diary-scottish-artist-discovered-nearly-50-years-death/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    },
-    {
-      "title_ja": "",
-      "title": "Police dog injured in Aberdeen knife incident to return to service",
-      "url": "https://www.heraldscotland.com/news/25030977.police-dog-injured-aberdeen-knife-incident-return-service/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    },
-    {
-      "title_ja": "",
-      "title": "Madness announce two Scottish dates for 2025 as part of new UK tour",
-      "url": "https://www.heraldscotland.com/news/25030842.madness-announce-glasgow-aberdeen-dates-2025/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    },
-    {
-      "title_ja": "",
-      "title": "Boy, 16, given court date as further arrest made in connection with Amen Teklay death",
-      "url": "https://www.heraldscotland.com/news/25030739.boy-16-given-court-date-connection-amen-teklay-death/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    },
-    {
-      "title_ja": "",
-      "title": "'We lose two-thirds of staff every two years - people have to pay the bills'",
-      "url": "https://www.heraldscotland.com/news/25030222.social-care-worker-highlights-problems-retaining-staff/?ref=rss",
-      "summary_ja": "",
-      "comment_ja": ""
-    }
-  ]
+  "20250323": {
+    "episode_topic": [
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Kenny McLean admits Scotland can make no excuses after Greece defeat",
+        "url": "https://news.stv.tv/sport/kenny-mclean-admits-scotland-can-make-no-excuses-after-greece-defeat",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      },
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Third teenager arrested over Amen Teklay death",
+        "url": "https://www.bbc.com/news/articles/cy05z9rl10po",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      },
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Steve Clarke identifies lessons to learn before Scotland meet Greece again",
+        "url": "https://news.stv.tv/sport/steve-clarke-identifies-lessons-to-learn-before-scotland-meet-greece-again",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      },
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Slick Greece stroll to win that relegates Scotland in Nations League",
+        "url": "https://www.bbc.com/sport/videos/c3e4q0pjgwgo",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      },
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Second teen, 16, charged in connection with death of schoolboy Amen Teklay",
+        "url": "https://news.stv.tv/west-central/second-teen-16-charged-in-connection-with-death-of-schoolboy-amen-teklay",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      },
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Scotland crash to defeat against Greece and suffer Nations League relegation",
+        "url": "https://news.stv.tv/sport/scotland-crash-to-defeat-against-greece-and-suffer-nations-league-relegation",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      },
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Two women charged in connection with multiple pickpocketing incidents in Arbroath and Dundee",
+        "url": "https://news.stv.tv/north/two-women-charged-in-connection-with-multiple-pickpocketing-incidents-in-arbroath-and-dundee",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      },
+      {
+        "title_ja": "Dummy Title JA",
+        "title": "Chancellor urged to prioritise public spending in UK spring statement",
+        "url": "https://news.stv.tv/politics/chancellor-urged-to-prioritise-public-spending-in-uk-spring-statement",
+        "summary_ja": "Dummy Summary JA",
+        "comment_ja": "Dummy Comment JA"
+      }
+    ],
+    "episode_title": "",
+    "episode_note": "",
+    "episode_duration": ""
+  },
+  "20250324": {
+    "episode_topic": [
+      {
+        "title_ja": "",
+        "title": "Emergency services on scene after three-vehicle crash outside Glasgow hospital",
+        "url": "https://www.heraldscotland.com/news/25031444.emergency-services-scene-crash-outside-glasgow-hospital/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Alan Cumming to host Bafta ceremony for first time",
+        "url": "https://www.heraldscotland.com/news/25031316.alan-cumming-host-bafta-ceremony-first-time/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Diary of Scottish artist discovered nearly 50 years after his death",
+        "url": "https://www.heraldscotland.com/news/25031275.diary-scottish-artist-discovered-nearly-50-years-death/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Police dog injured in Aberdeen knife incident to return to service",
+        "url": "https://www.heraldscotland.com/news/25030977.police-dog-injured-aberdeen-knife-incident-return-service/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Madness announce two Scottish dates for 2025 as part of new UK tour",
+        "url": "https://www.heraldscotland.com/news/25030842.madness-announce-glasgow-aberdeen-dates-2025/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Boy, 16, given court date as further arrest made in connection with Amen Teklay death",
+        "url": "https://www.heraldscotland.com/news/25030739.boy-16-given-court-date-connection-amen-teklay-death/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "How The Wombats dodged 'indie landfill' and became Gen Z cool kids",
+        "url": "https://www.heraldscotland.com/news/25030338.wombats-glasgow-accepted-gen-z/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "'We lose two-thirds of staff every two years - people have to pay the bills'",
+        "url": "https://www.heraldscotland.com/news/25030222.social-care-worker-highlights-problems-retaining-staff/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      }
+    ],
+    "episode_title": "",
+    "episode_note": "",
+    "episode_duration": ""
+  },
+  "20250325": {
+    "episode_topic": [
+      {
+        "title_ja": "",
+        "title": "Second teenager appears in court over murder of Amen Teklay",
+        "url": "https://www.heraldscotland.com/news/25033815.murder-amen-teklay-second-teen-appears-court/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Man who died in 1290 Superduke crash named by police",
+        "url": "https://www.heraldscotland.com/news/25033793.man-died-b741-superduke-crash-named-police/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "New airline to debut with A380 flight from Scotland to New York",
+        "url": "https://www.heraldscotland.com/news/25033646.global-airlines-debut-a380-flight-glasgow/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "The great sports car rush which stalled on the starting grid",
+        "url": "https://www.heraldscotland.com/news/25033291.we-found-little-evidence-people-buying-lamborghinis/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "'Monstrous carbuncle': Edinburgh's big wheel won't go up for summer after backlash",
+        "url": "https://www.heraldscotland.com/news/25033453.edinburghs-big-wheel-will-not-go-summer-says-council/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Is it time for a rethink of free university tuition in Scotland?",
+        "url": "https://www.heraldscotland.com/news/25033367.time-john-swinney-rethink-tuition-fees/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "£17m plan to transform dilapidated harbour takes step forward",
+        "url": "https://www.heraldscotland.com/news/25033219.17m-plan-transform-dilapidated-harbour-takes-step-forward/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      },
+      {
+        "title_ja": "",
+        "title": "Inspirational scots mum encourages everyone to join Race for Life Glasgow",
+        "url": "https://www.heraldscotland.com/news/25033215.scots-mum-encourages-everyone-join-race-life-glasgow/?ref=rss",
+        "summary_ja": "",
+        "comment_ja": ""
+      }
+    ],
+    "episode_title": "20250325 - ",
+    "episode_note": "🐝デバッグモードです",
+    "episode_duration": ""
+  }
 }
