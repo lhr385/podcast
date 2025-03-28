@@ -1,0 +1,70 @@
+body {
+    max-width: 700px;
+    margin: 50px auto;
+    font-family: sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+  a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .artwork {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  audio {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+  }
+  footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: #999;
+  }
+  .description {
+    white-space: pre-wrap;
+    word-break: break-word;
+    background-color: #f9f9f9;
+    padding: 1em;
+    border-radius: 8px;
+    margin-top: 20px;
+    line-height: 1.8;
+  }
+
+  /* ベースのリスト設定 */
+  ul {
+    list-style: none;
+    padding-left: 0;
+    display: block; /* 横並びではなく縦並び */
+    margin: 0 auto;
+    text-align: center; /* 左寄せ */
+  }
+
+  /* リストアイテムの設定 */
+  li {
+    margin-bottom: 1.2em; /* 下の余白 */
+    padding: 1em;
+    background-color: #f4f4f4; /* 背景色 */
+    border-radius: 8px; /* 角を丸く */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* 影をつけて立体感を */
+    transition: transform 0.3s ease-in-out; /* ホバー時のアニメーション */
+  }
+
+  /* ホバー時のエフェクト */
+  li:hover {
+    transform: translateY(-3px); /* ほんの少し浮かせる */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* 影を強調 */
+  }
