@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>F1Log Weekly Topics - Japanese Edition of F1 News</title><link>https://lhr385.github.io/podcast/f1topics/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/f1topics/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+f1topics@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/f1topics/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/f1topics/artwork.jpg</url></image><item><title>20250822 - Cadillac F1チームのドライバー選定：ベテラン起用戦略の是非</title><link>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.html</link><guid>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.html</guid><pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>F1Log Weekly Topics - Japanese Edition of F1 News</title><link>https://lhr385.github.io/podcast/f1topics/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/f1topics/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+f1topics@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/f1topics/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/f1topics/artwork.jpg</url></image><item><title>20250822 - Cadillac F1チームのドライバー選定：ベテランか若手か</title><link>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.html</link><guid>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.html</guid><pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🇬🇧海外のF1ニュースを🇯🇵日本語に翻訳・要約して毎週配信。独自のニュース解説もつけています。
 
 📻 今回のトピック
 
-1. Cadillac F1チームのドライバー選定：ベテラン起用戦略の是非
-2. Sauberの劇的な復活劇：2025年シーズンの躍進
-3. McLarenの圧倒的強さ：NorrisとPiastriのタイトル争い
-4. HamiltonのFerrariでの苦戦とチームのアップデート効果
-5. Cadillac F1パワーユニットプロジェクトの始動と人材募集
+1. Cadillac F1チームのドライバー選定：ベテランか若手か
+2. Sauberチームの劇的な躍進：シミュレーションとの格闘と技術的ブレイクスルー
+3. McLarenの圧倒的勝利とNorris、Piastriのタイトル争い
+4. Ferrariの苦戦とHamiltonの自己批判
+5. MotoGPとKarting：ペナルティとエアロパーツ規制
 
 📰 参考記事
 
@@ -26,19 +26,19 @@ https://www.theguardian.com/sport/live/2025/aug/03/hungarian-grand-prix-formula-
 5. ‘I’m absolutely useless’: Lewis Hamilton says Ferrari should replace him after qualifying 12th
 https://www.theguardian.com/sport/2025/aug/02/im-absolutely-useless-lewis-hamilton-says-ferrari-should-replace-him-after-qualifying-12th
 
-6. Lewis Hamilton makes feelings clear on Ferrari SF-25 suspension upgrade
+6. Two MotoGP riders get grid penalties for same incident
+https://www.the-race.com/motogp/hungarian-gp-blocking-grid-penalties-alex-marquez-jack-miller/
+
+7. Iconic F1 sponsor at centre of football shirt saga after last-minute change
+https://www.planetf1.com/news/f1-sponsor-football-shirt-gulf-swansea
+
+8. Why MotoGP's newest track may be Bagnaia's worst in 2025
+https://www.the-race.com/motogp/pecco-bagnaia-hungarian-gp-balaton-park-struggles/
+
+9. FIA issues stern statement following media report involving GPDA chairman
+https://www.planetf1.com/news/fia-statement-on-alleged-interview-with-gpda-chairman
+
+10. Lewis Hamilton makes feelings clear on Ferrari SF-25 suspension upgrade
 https://www.planetf1.com/news/lewis-hamilton-ferrari-rear-suspension-upgrade-positive-step
 
-7. Acosta quickest in Hungary MotoGP practice, Bagnaia sinks to Q1
-https://www.the-race.com/motogp/hungary-gp-balaton-park-friday-practice-acosta-bagnaia/
-
-8. Franco Colapinto ‘doesn’t deliver’ as ex-F1 driver slams ‘extreme’ fans
-https://www.planetf1.com/news/franco-colapinto-doesn-not-deliver-extreme-fans-christian-danner
-
-9. Valtteri Bottas confirms next step after Cadillac F1 agreement reached
-https://www.planetf1.com/news/valtteri-bottas-cadillac-f1-next-move
-
-10. Cadillac’s power unit project ramps up F1 effort with recruitment drive
-https://www.planetf1.com/news/cadillac-gm-performance-power-units-begins-recruitment-drive
-
-</description><enclosure url="https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.mp3" length="7949627" type="audio/mpeg" /><itunes:duration>8:16</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.mp3" length="7471482" type="audio/mpeg" /><itunes:duration>7:46</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250822.txt" type="text/plain" language="ja" /></item></channel></rss>
