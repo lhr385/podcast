@@ -1,184 +1,119 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20250824 - スコットランドの新しいフェリー「MV Lochmor」進水</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.html</guid><pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Weekly Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20250824 - Weekly F1 Topics</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.html</guid><pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。
 
-1. スコットランドの新しいフェリー「MV Lochmor」進水⚡
-New ferry MV Lochmor launched in Turkey for Little Minch routes
-https://www.thenational.scot/news/25412975.new-ferry-launched-turkey-little-minch-routes/?ref=rss
+📻 今回のトピック
 
-2. グレンジマウス製油所の閉鎖と雇用問題、再生への道のり⚡
-UK Government slammed for 'failing to deliver' £200m Grangemouth funding
-https://www.thenational.scot/news/25412838.uk-government-slammed-failing-deliver-grangemouth-funding/?ref=rss
+1. スコットランド企業の倒産と雇用問題
+2. イスラエルのガザ攻撃と国際社会の反応
+3. ニコラ・スタージョンとジェレミー・コービンの関係
+4. スコットランドにおける山火事の危険と対策
+5. エディンバラの新たなe-バイクシェアリング
 
-3. パイパーアルファ災害：息子の安全への道
-Piper Alpha disaster took my dad - I still took a job offshore
-https://www.bbc.com/news/articles/cjw69e0vv2zo?at_medium=RSS&amp;at_campaign=rss
+📰 参考記事
 
-4. スコットランドの店員への暴力・脅迫増加：対策強化の現状と課題
-'More must be done' with abuse of retail workers on the rise
-https://www.heraldscotland.com/news/25412542.action-needed-tackle-rising-abuse-retail-workers/?ref=rss
-
-5. セルティック、チャンピオンズリーグ出場へ向け再戦へ
-Brendan Rodgers convinced Kairat Almaty will see a different Celtic on Tuesday
-https://news.stv.tv/sport/brendan-rodgers-convinced-kairat-almaty-will-see-a-different-celtic-on-tuesday
-
-6. グラスゴーのホテルストライキ、賃上げとゼロ時間契約廃止で決着
-Unite Hospitality secures win for Scottish staff at Village hotel
-https://www.thenational.scot/news/25413199.trade-union-secures-win-glasgow-village-hotel-staff/?ref=rss
-
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.mp3" length="11900595" type="audio/mpeg" /><itunes:duration>12:23</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.txt" type="text/plain" language="ja" /></item><item><title>20250823 - スコットランドの道路標識会社Apex Traffic Managementが倒産、約120人が失業</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250823.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250823.html</guid><pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
-
-1. スコットランドの道路標識会社Apex Traffic Managementが倒産、約120人が失業⚡⚡
-Almost 120 jobs lost as Apex Traffic Management enters administration
+1. Almost 120 jobs lost as Apex Traffic Management enters administration
 https://news.stv.tv/west-central/almost-120-jobs-lost-as-apex-traffic-management-enters-administration
 
-2. スコットランド全土に11回目の山火事警報が発令⚡
-Warning issued for very high risk of wildfire across Scotland
-https://news.stv.tv/scotland/warning-issued-for-very-high-risk-of-wildfire-across-scotland
-
-3. ストージョンの回顧録でコルビン氏を批判、本人から反論⚡
-'Get over it': Jeremy Corbyn responds to Nicola Sturgeon's dig in her memoir
-https://www.thenational.scot/news/25412230.jeremy-corbyn-responds-nicola-sturgeons-dig-get-it/?ref=rss
-
-4. M8高速道路でのコカイン摂取運転による多重衝突事故⚡
-Speeding driver high on cocaine injured six in M8 crash
-https://www.bbc.com/news/articles/cvg0zp56yjlo?at_medium=RSS&amp;at_campaign=rss
-
-5. スコットランドの動物保護施設がBBC賞にノミネート
-'We're a forever home for animals no-one else can take'
-https://www.bbc.com/news/articles/cn47wpgzj8xo?at_medium=RSS&amp;at_campaign=rss
-
-6. スコットランドのストラサベンで熱気球祭りが開催
-Glow up: Dancing festival balloons will light up night
-https://www.bbc.com/news/articles/c4gm8pzg78ko?at_medium=RSS&amp;at_campaign=rss
-
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250823.mp3" length="10932141" type="audio/mpeg" /><itunes:duration>11:23</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250823.txt" type="text/plain" language="ja" /></item><item><title>20250822 - イスラエルのガザ攻撃とスコットランドの懸念：スウィニー氏声明</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250822.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250822.html</guid><pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
-
-1. イスラエルのガザ攻撃とスコットランドの懸念：スウィニー氏声明⚡⚡
-John Swinney urges Keir Starmer to recall UK Parliament over Israel's assault on Gaza
+2. John Swinney urges Keir Starmer to recall UK Parliament over Israel's assault on Gaza
 https://www.thenational.scot/news/25408893.john-swinney-urges-keir-starmer-recall-uk-parliament-gaza/?ref=rss
 
-2. スコットランド女優カレン・ギラン、「ハイランダー」リメイク版に出演決定⚡
-Scottish actress Karen Gillan joins star-studded Highlander reboot cast
+3. 'Get over it': Jeremy Corbyn responds to Nicola Sturgeon's dig in her memoir
+https://www.thenational.scot/news/25412230.jeremy-corbyn-responds-nicola-sturgeons-dig-get-it/?ref=rss
+
+4. Warning issued for very high risk of wildfire across Scotland
+https://news.stv.tv/scotland/warning-issued-for-very-high-risk-of-wildfire-across-scotland
+
+5. Speeding driver high on cocaine injured six in M8 crash
+https://www.bbc.com/news/articles/cvg0zp56yjlo?at_medium=RSS&amp;at_campaign=rss
+
+6. Scottish actress Karen Gillan joins star-studded Highlander reboot cast
 https://news.stv.tv/entertainment/scottish-actress-karen-gillan-joins-star-studded-highlander-reboot-cast
 
-3. アバディーン、劇的ドローでELプレーオフ進出に望み繋ぐ
-Jimmy Thelin proud of Aberdeen after fightback to draw with FCSB
-https://news.stv.tv/sport/football/jimmy-thelin-proud-of-aberdeen-after-fightback-to-draw-with-fcsb
+7. Police Scotland using live facial recognition 'not justifiable', SNP members say
+https://www.thenational.scot/news/25412069.police-scotland-using-live-facial-recognition-not-justifiable/?ref=rss
 
-4. スコットランド・アーバインの伝統行事「グリーシーポールチャレンジ」
-Could you climb Irvine's 25ft greasy pole? (The prize is a ham)
-https://www.bbc.com/news/articles/cn5e3qrl2yxo?at_medium=RSS&amp;at_campaign=rss
+8. Country Diary: A rare sighting around the Highlands – a thatched roof | Tom Allan
+https://www.theguardian.com/environment/2025/aug/22/country-diary-a-rare-sighting-around-the-highlands-a-thatched-roof
 
-5. ハイランド評議会、職員の薬物検査導入を提案
-Highland Council proposes new staff drug testing policy
-https://www.bbc.com/news/articles/cn92q8dqxdgo?at_medium=RSS&amp;at_campaign=rss
+9. Hurricane Erin’s tail may bring wet and windy end to UK summer
+https://www.theguardian.com/uk-news/2025/aug/21/hurricane-erins-tail-may-bring-wet-and-windy-end-to-uk-summer
 
-6. カレン・ギラン、娘と仕事復帰へ　スコットランドでの仕事増加も希望
-Karen Gillan: My baby will have to come on set with me
-https://www.bbc.com/news/articles/cq87gn3q0yvo?at_medium=RSS&amp;at_campaign=rss
+10. Michael Waldman obituary
+https://www.theguardian.com/science/2025/aug/21/michael-waldman-obituary
 
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250822.mp3" length="10502061" type="audio/mpeg" /><itunes:duration>10:56</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250822.txt" type="text/plain" language="ja" /></item><item><title>20250821 - スコットランド元首相、保守党の難民批判を痛烈に非難</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250821.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250821.html</guid><pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
+11. Glasgow's Citizens Theatre to reopen after seven years
+https://www.bbc.com/news/articles/cj0ypjp4d8yo?at_medium=RSS&amp;at_campaign=rss
 
-1. スコットランド元首相、保守党の難民批判を痛烈に非難⚡
-Tories deliberately trying to fuel hatred against asylum seekers, Yousaf says
-https://news.stv.tv/politics/tories-deliberately-trying-to-fuel-hatred-against-asylum-seekers-yousaf-says
+12. Brewdog co-founder leaves craft beer giant
+https://www.bbc.com/news/articles/cg50p64rev3o?at_medium=RSS&amp;at_campaign=rss
 
-2. スコットランドの寄宿学校における児童虐待調査：恐怖支配下の子供たち⚡
-Children lived in 'state of fear' at boarding school - inquiry
-https://www.bbc.com/news/articles/c78zx2w3ll8o?at_medium=RSS&amp;at_campaign=rss
+13. Police attend disturbance in Glasgow City Centre after 'object set on fire'
+https://www.heraldscotland.com/news/25412292.police-attend-disturbance-nile-street-object-set-fire/?ref=rss
 
-3. セルティック、チャンピオンズリーグプレーオフで苦戦、ファンから取締役会への批判噴出
-Celtic boss Brendan Rodgers: ‘Sack the board’ normally means ‘sack the manager’
-https://news.stv.tv/sport/football/celtic-boss-brendan-rodgers-sack-the-board-normally-means-sack-the-manager
+14. New 'dockless' e-bike hire scheme launches in Edinburgh
+https://www.heraldscotland.com/news/25412274.new-dockless-e-bike-hire-scheme-launches-edinburgh/?ref=rss
 
-4. スコットランドの悪徳建設業者による被害と司法手続きの現状
-How a cowboy builder ripped off his customers – and got away with it
-https://www.bbc.com/news/articles/cm2v8d4z017o?at_medium=RSS&amp;at_campaign=rss
+15. 10 of my best moments from the Edinburgh festivals - and a few to forget
+https://www.heraldscotland.com/news/25411799.10-best-moments-edinburgh-festivals/?ref=rss
 
-5. スコットランド、ポートグラスゴーを舞台にしたD&amp;Dキャンペーン
-Dungeons and Dragons fans face new challenge - save Port Glasgow
-https://www.bbc.com/news/articles/cz60e564l3xo?at_medium=RSS&amp;at_campaign=rss
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.mp3" length="4592579" type="audio/mpeg" /><itunes:duration>4:47</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.txt" type="text/plain" language="ja" /></item><item><title>20250811 - レンジャーズサポーター、試合中に急死　70歳男性</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.html</guid><pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
 
-6. スコットランドの低所得家庭、制服補助金受給に苦戦
-Parents on low wages struggling to get school uniform grant
-https://www.bbc.com/news/articles/cr4e5w1r94wo?at_medium=RSS&amp;at_campaign=rss
+📻 今回のトピック
 
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250821.mp3" length="11482218" type="audio/mpeg" /><itunes:duration>11:57</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250821.txt" type="text/plain" language="ja" /></item><item><title>20250820 - スコットランド国民党の閣僚多数が次期選挙で辞任へ</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250820.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250820.html</guid><pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
+1. レンジャーズサポーター、試合中に急死　70歳男性
+2. エディンバラのアサーズ・シートで山火事発生
+3. スコットランドのストゥージェン前首相、性自認改革法案への反省を語る
+4. ストーゲン元首相の回顧録、サルモンド氏へのリーク疑惑を巡り論争
+5. イギリスの平均家賃、5年ぶりに下落
+6. スコットランド警察署のアスベスト問題：危険な実態と政府への批判
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.mp3" length="11287725" type="audio/mpeg" /><itunes:duration>11:45</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.txt" type="text/plain" language="ja" /></item><item><title>20250810 - ニコラ・スタージョン氏、サルモンド氏による情報漏洩を主張</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250810.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250810.html</guid><pubDate>Sun, 10 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
 
-1. スコットランド国民党の閣僚多数が次期選挙で辞任へ⚡
-I have no intention of reshuffling Cabinet before election, says John Swinney
-https://www.thenational.scot/news/25402969.no-intention-reshuffling-cabinet-says-john-swinney/?ref=rss
+📻 今回のトピック
 
-2. 忘れられたスコットランドのスケートパーク、ケルビン・ウィリーズの発掘調査
-Archaeologists probe Kelvingrove Park to uncover lost skateboard arena
-https://www.heraldscotland.com/news/25402823.archaeologists-probe-kelvingrove-park-uncover-lost-skateboard-arena/?ref=rss
+1. ニコラ・スタージョン氏、サルモンド氏による情報漏洩を主張
+2. エディンバラでのオアシスのコンサートで逮捕者発生
+3. スコットランド・ペイズリーで集団けんか、17歳少年が刃物で負傷
+4. スコットランドの核兵器基地から放射性物質が漏洩
+5. スコットランド緑の党党首選：若手議員への嫌がらせと党内抗争
+6. レンジャーズ、劇的なPKでダンディーと引き分け
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250810.mp3" length="10856493" type="audio/mpeg" /><itunes:duration>11:18</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250810.txt" type="text/plain" language="ja" /></item><item><title>20250809 - ニコラ・スタージョン氏、警察捜査の苦悩を回顧</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250809.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250809.html</guid><pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
 
-3. スコットランドの特別支援教育：逼迫する現状と課題
-'Not fit for purpose' - school leaders slam Additional Support Needs provision
-https://www.heraldscotland.com/news/25402530.headteachers-say-asn-provision-not-fit-purpose/?ref=rss
+📻 今回のトピック
 
-4. スコットランドの組織犯罪と警察の資金問題
-Police report identifies 'growing threat' from Glasgow and Edinburgh gang violence
-https://www.heraldscotland.com/news/25401816.growing-threat-gang-war-engulfing-glasgow-edinburgh/?ref=rss
+1. ニコラ・スタージョン氏、警察捜査の苦悩を回顧
+2. 米副大統領のスコットランド訪問の可能性、警察が警戒態勢
+3. スコットランドの自転車王者、クリス・ホイ氏ら、前立腺がん啓発活動で政府と会談
+4. スコットランドのゲイ男性と出会い系アプリ：快楽と孤独の狭間
+5. ハイランドクラブの課題：ロスカウンティCEOのコメント
+6. オアシス、エディンバラ市議会を批判　「蛇の集団」と発言
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250809.mp3" length="11110653" type="audio/mpeg" /><itunes:duration>11:34</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250809.txt" type="text/plain" language="ja" /></item><item><title>20250808 - スコットランド副首相フォーブス氏、退任表明と自由な言論への訴え</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250808.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250808.html</guid><pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
 
-5. レンジャーズ、チャンピオンズリーグプレーオフ敗退危機も監督は楽観視
-Rangers boss Russell Martin not giving up hope on Champions League dream
-https://news.stv.tv/sport/rangers-boss-russell-martin-not-giving-up-hope-on-champions-league-hopes
+📻 今回のトピック
 
-6. 87歳女性、脳卒中後もAC/DCコンサートへ！
-The 87-year-old who won't let a stroke stop her seeing AC/DC
-https://www.bbc.com/news/articles/cn02kn2wg0zo?at_medium=RSS&amp;at_campaign=rss
+1. スコットランド副首相フォーブス氏、退任表明と自由な言論への訴え
+2. オアシスのエディンバラ公演とスコットランドの階級意識
+3. ハイバーニアン、敵地で圧勝！ボイル選手100ゴール達成
+4. ストージャー元首相、パレスチナ問題への沈黙を問われる
+5. 2025年世界パイプバンド選手権：若手育成と盛況を期待
+6. 元スコットランド首相スタージョン氏、ガザでのイスラエルの行動を「ジェノサイド」と非難
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250808.mp3" length="11244399" type="audio/mpeg" /><itunes:duration>11:42</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250808.txt" type="text/plain" language="ja" /></item><item><title>20250807 - スコットランドの研究でME/CFSの原因遺伝子を発見</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250807.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250807.html</guid><pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
 
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250820.mp3" length="11795688" type="audio/mpeg" /><itunes:duration>12:17</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250820.txt" type="text/plain" language="ja" /></item><item><title>20250819 - ダンディーで大量の大麻を押収、47歳男逮捕</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250819.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250819.html</guid><pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
+📻 今回のトピック
 
-1. ダンディーで大量の大麻を押収、47歳男逮捕⚡
-Man, 47, arrested after police recover drugs worth more than £260,000
-https://news.stv.tv/north/man-47-arrested-after-police-recover-drugs-worth-more-than-260000
+1. スコットランドの研究でME/CFSの原因遺伝子を発見
+2. スコットランドの慈善団体がソマリアの環境保全で連携
+3. スコットランド、ジェドバラのカーネギー図書館売却問題
+4. スコットランドで子供向け菓子を模倣したニコチンパウチ販売問題
+5. エディンバラ・フリンジ祭：故教師の遺志を継ぎ、生徒たちが舞台へ
+6. アングスの滝で65歳男性が転落死
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250807.mp3" length="10835217" type="audio/mpeg" /><itunes:duration>11:17</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250807.txt" type="text/plain" language="ja" /></item><item><title>20250806 - 猛烈な嵐「フロリス」がスコットランドの鉄道網に甚大な被害</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250806.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250806.html</guid><pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
 
-2. アフガニスタン女性医師志望者、スコットランドで新たな希望⚡
-I have a second family and home in Scotland, says Afghan medical student
-https://www.thenational.scot/news/25399661.afghan-medical-student-says-scotland-become-second-home/?ref=rss
+📻 今回のトピック
 
-3. スコットランド刑務所：ギャング抗争激化で警備強化
-'Game of chess' to keep gangsters apart in jail as attacks rise
-https://www.bbc.com/news/articles/c87er2e89dpo?at_medium=RSS&amp;at_campaign=rss
-
-4. スコットランド病院の安全問題に関する公聴会再開
-Scottish hospitals inquiry: What is being investigated?
-https://www.bbc.com/news/articles/c623k2gp99vo?at_medium=RSS&amp;at_campaign=rss
-
-5. グラスゴー市、夜間清掃体制強化で街の清潔度向上へ
-Glasgow’s overnight cleansing team doubled after criticism of ‘dirty streets’
-https://news.stv.tv/west-central/glasgows-overnight-cleansing-team-doubled-after-criticism-of-dirty-streets
-
-6. 「ケタミン女王」薬物供給容疑で有罪答弁へ、俳優マシュー・ペリー氏死亡事件
-‘Ketamine Queen’ accused of selling fatal dose to Matthew Perry to plead guilty
-https://news.stv.tv/world/ketamine-queen-accused-of-selling-fatal-dose-to-matthew-perry-to-plead-guilty
-
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250819.mp3" length="12196093" type="audio/mpeg" /><itunes:duration>12:42</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250819.txt" type="text/plain" language="ja" /></item><item><title>20250818 - スコットランド政府のトランスジェンダー政策、再び法廷へ</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250818.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250818.html</guid><pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
-
-1. スコットランド政府のトランスジェンダー政策、再び法廷へ⚡
-Scottish ministers face legal action over policies ‘inconsistent’ with UK gender ruling
-https://www.theguardian.com/uk-news/2025/aug/17/scotland-government-legal-action-uk-supreme-court-gender-ruling
-
-2. グラスゴーの強盗事件で店員が重傷⚡
-Shop worker seriously injured after being ‘sprayed with substance’ during robbery in Glasgow
-https://news.stv.tv/west-central/shop-worker-seriously-injured-after-being-sprayed-with-substance-during-robbery-in-glasgow
-
-3. スコットランド沖でザトウクジラの大規模な採餌行動が目撃される⚡
-Rare footage shows whales feeding off Scotland’s west coast
-https://www.thenational.scot/news/25396341.rare-footage-shows-extraordinary-whales-off-scotlands-west-coast/?ref=rss
-
-4. ガザ地区学生のスコットランド留学、ビザ問題で危機⚡
-Fix visa problems to allow Gaza students to study in Scotland, Keir Starmer told
-https://www.thenational.scot/news/25396203.fix-visa-problems-allow-gaza-students-study-scotland---swinne/?ref=rss
-
-5. スコットランドのSTVニュース、スタジオ刷新と多様な配信プラットフォーム
-STV News reveals new on-air look for studios in Glasgow and Aberdeen
-https://news.stv.tv/scotland/stv-news-reveals-new-on-air-look-for-studios-in-glasgow-and-aberdeen
-
-6. レンジャーズ、ブレントフォードからメガホマ選手をレンタル移籍で獲得
-Rangers announce signing of left-back Jayden Meghoma on a season-long loan
-https://news.stv.tv/sport/rangers-announce-signing-of-left-back-jayden-meghoma-on-a-season-long-loan
-
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250818.mp3" length="11552853" type="audio/mpeg" /><itunes:duration>12:02</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250818.txt" type="text/plain" language="ja" /></item></channel></rss>
+1. 猛烈な嵐「フロリス」がスコットランドの鉄道網に甚大な被害
+2. スコットランドのビール広告、アルコール依存を暗示と判断され禁止
+3. イギリスでコテージ購入が最もお得な地域とは？Zoopla社の分析結果
+4. レンジャーズ、ヴィクトリア・プルゼニに快勝しチャンピオンズリーグ出場へ前進
+5. 猛烈な嵐「フロリス」襲来、スコットランドで数千戸停電続く
+6. 強風「嵐フロリス」でスコットランド6万戸超停電、復旧作業続く
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250806.mp3" length="10866146" type="audio/mpeg" /><itunes:duration>11:19</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250806.txt" type="text/plain" language="ja" /></item></channel></rss>
