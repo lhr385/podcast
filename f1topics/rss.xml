@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>F1Log Weekly Topics - Japanese Edition of F1 News</title><link>https://lhr385.github.io/podcast/f1topics/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。</itunes:summary><description>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/f1topics/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+f1topics@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/f1topics/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/f1topics/artwork.jpg</url></image><item><title>20250823 - 若手ドライバー、ガブリエル・ボルタレトの将来とフェルナンド・アロンソの関与</title><link>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250823.html</link><guid>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250823.html</guid><pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。</itunes:summary><description>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>F1Log Weekly Topics - Japanese Edition of F1 News</title><link>https://lhr385.github.io/podcast/f1topics/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。</itunes:summary><description>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/f1topics/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+f1topics@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/f1topics/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/f1topics/artwork.jpg</url></image><item><title>20250828 - F1 2026シーズン：キャデラック参戦とドライバーラインナップ</title><link>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250828.html</link><guid>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250828.html</guid><pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。</itunes:summary><description>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。
+
+📻 今回のトピック
+
+1. F1 2026シーズン：キャデラック参戦とドライバーラインナップ
+2. F1 2026年レギュレーション変更とドライバーの動向
+3. FIAの現状と課題：商業戦略の転換
+4. NASCARのチャーター紛争とチームの存続
+5. マレーシアF1開催断念と今後の展望
+
+📰 参考記事
+
+1. Valtteri Bottas can 'already see' something at Cadillac which made Mercedes multiple F1 world champions
+   出典: F1 Oversteer
+   収集日: 20250827
+https://www.f1oversteer.com/news/valtteri-bottas-can-already-see-something-at-cadillac-which-made-mercedes-multiple-f1-world-champions/
+
+2. ‘Very likely’: Danner tells Cadillac the outcome that signing Valtteri Bottas and Sergio Perez guarantees
+   出典: F1 Oversteer
+   収集日: 20250827
+https://www.f1oversteer.com/news/cadillac-told-the-very-likely-outcome-that-signing-valtteri-bottas-and-sergio-perez-guarantees/
+
+3. Ferrari fans will love what Cadillac chief has privately said about Lewis Hamilton's 2026 chances
+   出典: F1 Oversteer
+   収集日: 20250827
+https://www.f1oversteer.com/news/ferrari-fans-will-love-what-cadillac-chief-has-privately-said-about-lewis-hamiltons-2026-chances/
+
+4. Why Cadillac will use rival's car for F1 testing debut
+   出典: The Race
+   収集日: 20250827
+https://www.the-race.com/formula-1/cadillac-to-make-f1-testing-debut-using-rivals-old-car/
+
+5. The 2026 F1 grid so far: Every confirmed driver
+   出典: The Race
+   収集日: 20250827
+https://www.the-race.com/formula-1/who-will-drive-in-f1-2026-drivers-teams/
+
+6. 'I'd like to shut down that rumour' - Cadillac on Horner
+   出典: The Race
+   収集日: 20250827
+https://www.the-race.com/formula-1/cadillac-firmly-rules-out-horner-f1-approach/
+
+7. "I have nothing to prove" says Perez ahead of F1 return with Cadillac
+   出典: Formula 1 Articles | RACER
+   収集日: 20250827
+https://racer.com/2025/08/26/-i-have-nothing-to-prove-says-perez-ahead-of-f1-return-with-cadillac
+
+8. Cadillac F1 confirms Bottas, Perez for 2026
+   出典: Formula 1 Articles | RACER
+   収集日: 20250827
+https://racer.com/2025/08/26/cadillac-f1-confirms-bottas-perez-for-2026
+
+9. Perez defused Cadillac's doubts "with flying colors" - Towriss
+   出典: Formula 1 Articles | RACER
+   収集日: 20250827
+https://racer.com/2025/08/26/perez-quashed-cadillac-s-doubts-with-flying-colors---towriss
+
+10. Christian Horner lifeline ‘officially shut down’ amid major Cadillac F1 announcement – roundup
+   出典: PlanetF1 - news articles, features, everything - we're only giving away a teaser, we want to promote everything we've got so that people come to the sites to read it
+   収集日: 20250827
+https://www.planetf1.com/news/f1-news-cadillac-f1-2026-christian-horner-rumours-announcement
+
+11. Piastri title backed as F1 legend doubles down on ‘mentally weak’ Norris claim
+   出典: PlanetF1 - news articles, features, everything - we're only giving away a teaser, we want to promote everything we've got so that people come to the sites to read it
+   収集日: 20250827
+https://www.planetf1.com/news/lando-norris-already-lost-to-oscar-piastri-mental-health-alan-jones
+
+12. Sergio Perez has ‘nothing to prove’ as Lawson, Tsunoda ‘struggles’ catch the eye
+   出典: PlanetF1 - news articles, features, everything - we're only giving away a teaser, we want to promote everything we've got so that people come to the sites to read it
+   収集日: 20250827
+https://www.planetf1.com/news/sergio-perez-cadillac-f1-red-bull-liam-lawson-yuki-tsunoda-points
+
+13. FIA CCO interview: ‘I didn’t join to manage the status quo’
+   出典: BlackBook Motorsport
+   収集日: 20250827
+https://www.blackbookmotorsport.com/features/fia-commercial-strategy-f1-craig-edmondson-interview/
+
+14. Nascar ready to transfer charter tied to lawsuit with 23XI and FRM
+   出典: BlackBook Motorsport
+   収集日: 20250827
+https://www.blackbookmotorsport.com/news/nascar-23xi-frm-front-row-lawsuit-charter-driver-august-2025/
+
+15. Malaysia rules out F1 return due to high hosting costs
+   出典: BlackBook Motorsport
+   収集日: 20250827
+https://www.blackbookmotorsport.com/news/f1-malaysia-race-grand-prix-sepang-return-cost-august-2025/
+
+</description><enclosure url="https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250828.mp3" length="5520031" type="audio/mpeg" /><itunes:duration>5:44</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250828.txt" type="text/plain" language="ja" /></item><item><title>20250823 - 若手ドライバー、ガブリエル・ボルタレトの将来とフェルナンド・アロンソの関与</title><link>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250823.html</link><guid>https://lhr385.github.io/podcast/f1topics/episode/f1topics_20250823.html</guid><pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。</itunes:summary><description>1週間の海外F1ニュースを日本語で要約。独自のニュース解説もつけています。
 
 📻 今回のトピック
 

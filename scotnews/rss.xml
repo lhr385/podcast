@@ -1,62 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Weekly Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20250824 - Weekly F1 Topics</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.html</guid><pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Weekly Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20250828 - スコットランドの養殖サケ農場開発承認と環境への懸念</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250828.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250828.html</guid><pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎週配信。独自のニュース解説もつけています。
 
 📻 今回のトピック
 
-1. スコットランド企業の倒産と雇用問題
-2. イスラエルのガザ攻撃と国際社会の反応
-3. ニコラ・スタージョンとジェレミー・コービンの関係
-4. スコットランドにおける山火事の危険と対策
-5. エディンバラの新たなe-バイクシェアリング
+1. スコットランドの養殖サケ農場開発承認と環境への懸念
+2. アンディ・マレー氏、ダンブレーン虐殺追悼施設のパトロンに就任
+3. スコットランドのピーク時間帯の鉄道運賃廃止
+4. ウィリアム・ウォレスを題材にした新しいミュージカル
+5. ウッドグループの買収とロンドン証券取引所の動向
 
 📰 参考記事
 
-1. Almost 120 jobs lost as Apex Traffic Management enters administration
-https://news.stv.tv/west-central/almost-120-jobs-lost-as-apex-traffic-management-enters-administration
+1. Salmon farm in national park approved by Scottish Government despite fierce criticism
+   出典: The National | News
+   収集日: 20250827
+https://www.thenational.scot/news/25418577.salmon-farm-national-park-approved-scottish-government/?ref=rss
 
-2. John Swinney urges Keir Starmer to recall UK Parliament over Israel's assault on Gaza
-https://www.thenational.scot/news/25408893.john-swinney-urges-keir-starmer-recall-uk-parliament-gaza/?ref=rss
+2. Andy Murray announced as patron of charity set up after Dunblane massacre
+   出典: The National | News
+   収集日: 20250827
+https://www.thenational.scot/news/25418276.andy-murray-announced-patron-dunblane-charity/?ref=rss
 
-3. 'Get over it': Jeremy Corbyn responds to Nicola Sturgeon's dig in her memoir
-https://www.thenational.scot/news/25412230.jeremy-corbyn-responds-nicola-sturgeons-dig-get-it/?ref=rss
+3. Everything you need to know as ScotRail to scrap peak train fares
+   出典: The National | News
+   収集日: 20250827
+https://www.thenational.scot/news/25381982.scotrail-scrapping-peak-rail-fares---3-things-need-know/?ref=rss
 
-4. Warning issued for very high risk of wildfire across Scotland
-https://news.stv.tv/scotland/warning-issued-for-very-high-risk-of-wildfire-across-scotland
+4. Straight outta Stirling: the musical giving William Wallace the Hamilton treatment
+   出典: Scotland | The Guardian
+   収集日: 20250827
+https://www.theguardian.com/stage/2025/aug/26/straight-outta-stirling-the-musical-giving-william-wallace-the-hamilton-treatment
 
-5. Speeding driver high on cocaine injured six in M8 crash
-https://www.bbc.com/news/articles/cvg0zp56yjlo?at_medium=RSS&amp;at_campaign=rss
+5. UK oil firm Wood Group could leave London listing as it moves closer to takeover
+   出典: Scotland | The Guardian
+   収集日: 20250827
+https://www.theguardian.com/business/2025/aug/26/uk-oil-wood-group-london-takeover-sidara-ftse-250
 
-6. Scottish actress Karen Gillan joins star-studded Highlander reboot cast
-https://news.stv.tv/entertainment/scottish-actress-karen-gillan-joins-star-studded-highlander-reboot-cast
+6. Disaster at Sea: The Piper Alpha Story review – this oil rig horror is up there with Chornobyl
+   出典: Scotland | The Guardian
+   収集日: 20250827
+https://www.theguardian.com/tv-and-radio/2025/aug/25/disaster-at-sea-the-piper-alpha-story-review-this-oil-rig-horror-is-up-there-with-chornobyl
 
-7. Police Scotland using live facial recognition 'not justifiable', SNP members say
-https://www.thenational.scot/news/25412069.police-scotland-using-live-facial-recognition-not-justifiable/?ref=rss
+7. Brendan Rodgers admits frustration as Celtic’s Champions League story ends
+   出典: STV News
+   収集日: 20250827
+https://news.stv.tv/sport/brendan-rodgers-admits-frustration-as-celtics-champions-league-story-ends
 
-8. Country Diary: A rare sighting around the Highlands – a thatched roof | Tom Allan
-https://www.theguardian.com/environment/2025/aug/22/country-diary-a-rare-sighting-around-the-highlands-a-thatched-roof
+8. Police arrest 55 people amid ongoing ‘gang war’ across Scotland
+   出典: STV News
+   収集日: 20250827
+https://news.stv.tv/east-central/police-arrest-55-people-amid-ongoing-gang-war-across-scotland
 
-9. Hurricane Erin’s tail may bring wet and windy end to UK summer
-https://www.theguardian.com/uk-news/2025/aug/21/hurricane-erins-tail-may-bring-wet-and-windy-end-to-uk-summer
+9. Four libraries saved after council withdraws proposals
+   出典: STV News
+   収集日: 20250827
+https://news.stv.tv/west-central/four-libraries-saved-after-council-withdraws-proposals
 
-10. Michael Waldman obituary
-https://www.theguardian.com/science/2025/aug/21/michael-waldman-obituary
+10. Nationalised shipyard still waiting for promised investment
+   出典: BBC News
+   収集日: 20250827
+https://www.bbc.com/news/articles/cwy0q5nv829o?at_medium=RSS&amp;at_campaign=rss
 
-11. Glasgow's Citizens Theatre to reopen after seven years
-https://www.bbc.com/news/articles/cj0ypjp4d8yo?at_medium=RSS&amp;at_campaign=rss
+11. Clydeside crane could be used for zipline under sale plan
+   出典: BBC News
+   収集日: 20250827
+https://www.bbc.com/news/articles/cvg0j7pnqmgo?at_medium=RSS&amp;at_campaign=rss
 
-12. Brewdog co-founder leaves craft beer giant
-https://www.bbc.com/news/articles/cg50p64rev3o?at_medium=RSS&amp;at_campaign=rss
+12. Billy Connolly to be honoured with weekend of events
+   出典: BBC News
+   収集日: 20250827
+https://www.bbc.com/news/articles/cp8zxyenxw4o?at_medium=RSS&amp;at_campaign=rss
 
-13. Police attend disturbance in Glasgow City Centre after 'object set on fire'
-https://www.heraldscotland.com/news/25412292.police-attend-disturbance-nile-street-object-set-fire/?ref=rss
+13. Police accused of 'insulting taxpayers' over Celtic fans' title party policing costs
+   出典: The Herald | News
+   収集日: 20250827
+https://www.heraldscotland.com/news/25418617.police-accused-insulting-taxpayers-glasgow-celtic-party/?ref=rss
 
-14. New 'dockless' e-bike hire scheme launches in Edinburgh
-https://www.heraldscotland.com/news/25412274.new-dockless-e-bike-hire-scheme-launches-edinburgh/?ref=rss
+14. Two sites identified for potential drugs consumption room in Edinburgh
+   出典: The Herald | News
+   収集日: 20250827
+https://www.heraldscotland.com/news/25418588.two-sites-identified-potential-drugs-consumption-room-edinburgh/?ref=rss
 
-15. 10 of my best moments from the Edinburgh festivals - and a few to forget
-https://www.heraldscotland.com/news/25411799.10-best-moments-edinburgh-festivals/?ref=rss
+15. Scotch whisky industry poised for cask storage 'revolution'
+   出典: The Herald | News
+   収集日: 20250827
+https://www.heraldscotland.com/news/25416957.scotch-whisky-poised-cask-storage-revolution/?ref=rss
 
-</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.mp3" length="4592579" type="audio/mpeg" /><itunes:duration>4:47</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250824.txt" type="text/plain" language="ja" /></item><item><title>20250811 - レンジャーズサポーター、試合中に急死　70歳男性</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.html</guid><pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
+</description><enclosure url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250828.mp3" length="5515433" type="audio/mpeg" /><itunes:duration>5:44</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250828.txt" type="text/plain" language="ja" /></item><item><title>20250811 - レンジャーズサポーター、試合中に急死　70歳男性</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.html</link><guid>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20250811.html</guid><pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:summary>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。</itunes:summary><description>🏴󠁧󠁢󠁳󠁣󠁴󠁿スコットランドのニュースを🇯🇵日本語に翻訳して毎日配信。独自のニュース解説もつけています。
 
 📻 今回のトピック
 
