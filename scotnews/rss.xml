@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260225 - スコットランド検察長官、議会への情報提供で批判を受ける</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260225.html</link><guid isPermaLink="false">scotnews_20260225</guid><pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260226 - ファイフで交通事故、道路閉鎖。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260226.html</link><guid isPermaLink="false">scotnews_20260226</guid><pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. ファイフで交通事故、道路閉鎖。
+Drivers urged to avoid Fife road after two-vehicle crash
+https://news.stv.tv/east-central/drivers-urged-to-avoid-fife-road-after-two-vehicle-crash
+
+2. バーバラ・ウィンザーさんの夫、アルツハイマー病への思いを語る
+Barbara Windsor’s widower campaigns on Alzheimer’s as he ‘owes it to her legacy’
+https://news.stv.tv/entertainment/barbara-windsors-widower-campaigns-on-alzheimers-as-he-owes-it-to-her-legacy
+
+3. 身元不明男性の遺品、メダルに手がかりか。
+Could a horseshoe medal solve a 26-year mystery?
+https://www.bbc.com/news/articles/cev7z33v1kzo?at_medium=RSS&amp;at_campaign=rss
+
+4. インヴァネスで自転車と車の事故が発生しました。
+Cyclist left with serious injuries after crash involving car in Inverness
+https://news.stv.tv/highlands-islands/cyclist-left-with-serious-injuries-after-crash-involving-car-in-inverness
+
+5. サウスエアシャー議会、大幅な予算削減案を検討
+Community centres and libraries under threat in South Ayrshire amid £8.4m budget gap
+https://news.stv.tv/west-central/community-centres-and-libraries-under-threat-in-south-ayrshire-amid-8-4m-budget-gap
+
+6. スコットランド自治政府予算案、労働党の棄権で可決へ
+'Why not help fight child poverty?': Anas Sarwar quizzed on ignoring Scottish Budget
+https://www.thenational.scot/news/25892038.anas-sarwar-questioned-ignoring-scottish-budget-process/?ref=rss
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260226.mp3" length="7721004" type="audio/mpeg" /><itunes:duration>8:02</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260226.txt" type="text/plain" language="ja" /></item><item><title>20260225 - スコットランド検察長官、議会への情報提供で批判を受ける</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260225.html</link><guid isPermaLink="false">scotnews_20260225</guid><pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. スコットランド検察長官、議会への情報提供で批判を受ける⚡
 Lord Advocate faces accusations of ‘misleading’ Holyrood with Murrell memos
@@ -155,30 +181,4 @@ https://www.bbc.com/news/articles/c5y6grl1yn7o?at_medium=RSS&amp;at_campaign=rss
 Consultation launched over mandatory card payments for Glasgow taxis
 https://www.heraldscotland.com/news/25867575.consultation-mandatory-card-payments-glasgow-taxis/?ref=rss
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260218.mp3" length="7750317" type="audio/mpeg" /><itunes:duration>8:04</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260218.txt" type="text/plain" language="ja" /></item><item><title>20260217 - グラスゴー中心部で薬物密売取り締まり、50人逮捕。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260217.html</link><guid isPermaLink="false">scotnews_20260217</guid><pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. グラスゴー中心部で薬物密売取り締まり、50人逮捕。⚡
-Major police crackdown on drug dealing in Glasgow with 50 arrests made
-https://news.stv.tv/west-central/major-police-crackdown-on-drug-dealing-in-glasgow-with-50-arrests-made
-
-2. スコットランドの性暴力支援センター、資金不足で支援リストを閉鎖⚡
-Funding plea as Glasgow and Clyde Rape Crisis centre ‘forced’ to shut two waiting lists
-https://news.stv.tv/west-central/funding-plea-as-glasgow-and-clyde-rape-crisis-centre-forced-to-shut-two-waiting-lists
-
-3. セルティックパーク近くに新たな音楽イベント会場計画が進んでいます。
-Plans for new music venue beside Celtic Park building up a ‘head of steam’
-https://news.stv.tv/west-central/plans-for-new-music-venue-beside-celtic-park-building-up-a-head-of-steam
-
-4. 元首相が語る、エプスタイン氏とスタンステッド空港の深い関わり。
-Police assessing report UK airport used by Jeffrey Epstein to 'fly in girls'
-https://www.thenational.scot/news/25863981.police-assessing-report-stansted-airport-used-jeffrey-epstein/?ref=rss
-
-5. スコットランドで子どもの権利に関する法案が可決されました。
-Much debated religious education bill passes at Holyrood
-https://www.heraldscotland.com/news/25863930.much-debated-observance-bill-bill-passes-holyrood/?ref=rss
-
-6. 東ロージアン議会、カトリック学校への生徒派遣費用を隣接するミッドロージアン議会に支払うことに合意。
-Council to pay neighbouring authority £60,000 for pupils to go to catholic school
-https://news.stv.tv/east-central/council-agrees-to-pay-neighbouring-authority-60000-for-pupils-to-go-to-catholic-school
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260217.mp3" length="9449265" type="audio/mpeg" /><itunes:duration>9:50</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260217.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260218.mp3" length="7750317" type="audio/mpeg" /><itunes:duration>8:04</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260218.txt" type="text/plain" language="ja" /></item></channel></rss>
