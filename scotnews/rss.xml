@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260226 - ファイフで交通事故、道路閉鎖。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260226.html</link><guid isPermaLink="false">scotnews_20260226</guid><pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260301 - イランのミサイル攻撃を受け、イギリスが湾岸のイギリス民保護に大規模な作戦を展開。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260301.html</link><guid isPermaLink="false">scotnews_20260301</guid><pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. イランのミサイル攻撃を受け、イギリスが湾岸のイギリス民保護に大規模な作戦を展開。⚡
+UK mounts major operation to support thousands stranded in the Gulf
+https://news.stv.tv/world/uk-mounts-major-operation-to-support-thousands-stranded-in-the-gulf
+
+2. 俳優デルロイ・リンドー、差別発言に感謝の意を示す⚡
+Delroy Lindo hails ‘support and love’ after racial slur incident at Baftas
+https://news.stv.tv/entertainment/delroy-lindo-hails-support-and-love-after-racial-slur-incident-at-baftas
+
+3. スコットランド政府、中東情勢の緊迫化に懸念を示す⚡
+Situation in Middle East ‘deeply concerning’, says Angus Robertson
+https://news.stv.tv/politics/situation-in-middle-east-deeply-concerning-says-angus-robertson
+
+4. スコットランドの高速道路で多重事故が発生し、通行止めとなりました。
+Major motorway closed after crash involving six cars as drivers told to avoid area
+https://www.thenational.scot/news/25897588.m90-motorway-closed-following-crash-involving-6-cars-near-kinross/?ref=rss
+
+5. 英軍機、イランの無人機を撃墜しました。
+RAF Typhoon shoots down Iranian drone heading towards Qatari airspace
+https://www.heraldscotland.com/news/25897570.raf-typhoon-jet-shoots-iranian-drone-heading-qatar/?ref=rss
+
+6. 学生たちが教育費の負担に苦しむ現状に抗議する集会が開催されます。
+Students to host people's assembly amid 'abhorrent and unacceptable' crisis
+https://www.heraldscotland.com/news/25897547.glasgows-university-students-urge-action-higher-education-crisis/?ref=rss
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260301.mp3" length="10233774" type="audio/mpeg" /><itunes:duration>10:39</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260301.txt" type="text/plain" language="ja" /></item><item><title>20260226 - ファイフで交通事故、道路閉鎖。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260226.html</link><guid isPermaLink="false">scotnews_20260226</guid><pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. ファイフで交通事故、道路閉鎖。
 Drivers urged to avoid Fife road after two-vehicle crash
@@ -155,30 +181,4 @@ https://news.stv.tv/west-central/plans-for-flat-blocks-near-old-victoria-infirma
 Glasgow City Council plans to borrow money amid £56m homelessness crisis branded ‘sticking plaster’
 https://news.stv.tv/west-central/glasgow-city-council-plans-to-borrow-money-amid-56m-homelessness-crisis-branded-sticking-plaster
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260219.mp3" length="8716164" type="audio/mpeg" /><itunes:duration>9:04</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260219.txt" type="text/plain" language="ja" /></item><item><title>20260218 - スコットランド検察トップ、政治的優位性供与の疑いを否定</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260218.html</link><guid isPermaLink="false">scotnews_20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. スコットランド検察トップ、政治的優位性供与の疑いを否定⚡⚡
-Lord Advocate warns Anas Sarwar 'not to undermine law' after Peter Murrell letter
-https://www.thenational.scot/news/25867486.anas-sarwar-warned-not-undermine-law-peter-murrell-letter/?ref=rss
-
-2. 島の住民が本土で歯科治療を受ける必要性に言及
-Bute residents ‘travelling more than 60 miles’ to access NHS dentists, says MSP
-https://news.stv.tv/west-central/bute-residents-travelling-more-than-60-miles-to-access-nhs-dentists-says-msp
-
-3. カーリング男子、メダル獲得へイタリアとノルウェーの結果待ち
-GB curlers emerge from epic day with medal hopes revived
-https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&amp;at_campaign=rss
-
-4. 雨水で庭が水浸し、高齢女性が不安。
-Glasgow gran ‘frightened to leave house’ as garden flooded by blocked drains
-https://news.stv.tv/west-central/glasgow-gran-frightened-to-leave-house-as-garden-flooded-by-blocked-drains
-
-5. 妻に怒鳴り、物を投げつけ、引きずり回した男。
-Man on trial accused of killing wife who jumped from bridge
-https://www.bbc.com/news/articles/c5y6grl1yn7o?at_medium=RSS&amp;at_campaign=rss
-
-6. カード払いを義務化するか、市民に意見を求める。
-Consultation launched over mandatory card payments for Glasgow taxis
-https://www.heraldscotland.com/news/25867575.consultation-mandatory-card-payments-glasgow-taxis/?ref=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260218.mp3" length="7750317" type="audio/mpeg" /><itunes:duration>8:04</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260218.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260219.mp3" length="8716164" type="audio/mpeg" /><itunes:duration>9:04</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260219.txt" type="text/plain" language="ja" /></item></channel></rss>
