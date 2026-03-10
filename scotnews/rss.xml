@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260309 - グラスゴー中心部で大規模火災が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260309.html</link><guid isPermaLink="false">scotnews_20260309</guid><pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260310 - グラスゴーで建物火災が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260310.html</link><guid isPermaLink="false">scotnews_20260310</guid><pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. グラスゴーで建物火災が発生しました。
+Firefighters called to blaze within Glasgow building
+https://news.stv.tv/west-central/firefighters-called-to-blaze-within-glasgow-building
+
+2. 高齢女性、捜索後に病院で死亡。
+Woman, 81, dies in hospital after being traced following search
+https://news.stv.tv/west-central/woman-81-dies-in-hospital-after-being-traced-following-search
+
+3. グラスゴー中央駅、火災で高架部分が閉鎖。
+Glasgow Central station’s upper level to remain closed for rest of week after fire next door
+https://www.theguardian.com/uk-news/2026/mar/10/glasgow-central-station-upper-level-remain-closed-union-street-fire
+
+4. rape被害者の議員、司法改革案に反対の声を上げる
+David Lammy’s court reforms clear first vote as MP speaks of her rape trauma
+https://www.thenational.scot/news/25925558.david-lammys-court-reforms-supported-mps-first-vote/?ref=rss
+
+5. コーンウォール公領の新たな住宅開発計画、住民から反対の声も
+William’s huge housing development recommended for approval despite 467 objections
+https://www.thenational.scot/news/25925552.prince-williams-housing-development-receives-467-objections/?ref=rss
+
+6. マンソン氏、パンデミックで事業が犠牲になったと主張。
+Council convener 'fighting on' despite ban over unpaid tax
+https://www.bbc.com/news/articles/cy57vxvxn27o?at_medium=RSS&amp;at_campaign=rss
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260310.mp3" length="8102182" type="audio/mpeg" /><itunes:duration>8:26</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260310.txt" type="text/plain" language="ja" /></item><item><title>20260309 - グラスゴー中心部で大規模火災が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260309.html</link><guid isPermaLink="false">scotnews_20260309</guid><pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. グラスゴー中心部で大規模火災が発生しました。⚡
 Glasgow vape shop proprietor 'in grief' over fire which ripped through city centre
@@ -155,30 +181,4 @@ https://www.thenational.scot/news/25900947.hunt-driver-car-sped-away-police-aban
 Scotland becomes first UK country to legalise water cremations
 https://www.theguardian.com/society/2026/mar/02/scotland-becomes-first-uk-country-to-legalise-water-cremations
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260302.mp3" length="8253902" type="audio/mpeg" /><itunes:duration>8:35</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260302.txt" type="text/plain" language="ja" /></item><item><title>20260301 - イランのミサイル攻撃を受け、イギリスが湾岸のイギリス民保護に大規模な作戦を展開。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260301.html</link><guid isPermaLink="false">scotnews_20260301</guid><pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. イランのミサイル攻撃を受け、イギリスが湾岸のイギリス民保護に大規模な作戦を展開。⚡
-UK mounts major operation to support thousands stranded in the Gulf
-https://news.stv.tv/world/uk-mounts-major-operation-to-support-thousands-stranded-in-the-gulf
-
-2. 俳優デルロイ・リンドー、差別発言に感謝の意を示す⚡
-Delroy Lindo hails ‘support and love’ after racial slur incident at Baftas
-https://news.stv.tv/entertainment/delroy-lindo-hails-support-and-love-after-racial-slur-incident-at-baftas
-
-3. スコットランド政府、中東情勢の緊迫化に懸念を示す⚡
-Situation in Middle East ‘deeply concerning’, says Angus Robertson
-https://news.stv.tv/politics/situation-in-middle-east-deeply-concerning-says-angus-robertson
-
-4. スコットランドの高速道路で多重事故が発生し、通行止めとなりました。
-Major motorway closed after crash involving six cars as drivers told to avoid area
-https://www.thenational.scot/news/25897588.m90-motorway-closed-following-crash-involving-6-cars-near-kinross/?ref=rss
-
-5. 英軍機、イランの無人機を撃墜しました。
-RAF Typhoon shoots down Iranian drone heading towards Qatari airspace
-https://www.heraldscotland.com/news/25897570.raf-typhoon-jet-shoots-iranian-drone-heading-qatar/?ref=rss
-
-6. 学生たちが教育費の負担に苦しむ現状に抗議する集会が開催されます。
-Students to host people's assembly amid 'abhorrent and unacceptable' crisis
-https://www.heraldscotland.com/news/25897547.glasgows-university-students-urge-action-higher-education-crisis/?ref=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260301.mp3" length="10233774" type="audio/mpeg" /><itunes:duration>10:39</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260301.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260302.mp3" length="8253902" type="audio/mpeg" /><itunes:duration>8:35</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260302.txt" type="text/plain" language="ja" /></item></channel></rss>
