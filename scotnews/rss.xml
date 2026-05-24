@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260521 - グラスゴーのサマーセッション、懸念を乗り越え開催へ</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260521.html</link><guid isPermaLink="false">scotnews_20260521</guid><pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260524 - ベンローワーズ山脈で行方不明のハイカーの遺体発見</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260524.html</link><guid isPermaLink="false">scotnews_20260524</guid><pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. ベンローワーズ山脈で行方不明のハイカーの遺体発見⚡
+Body found in search for hillwalker missing overnight in Ben Lawers mountain range
+https://news.stv.tv/highlands-islands/body-found-in-search-for-hillwalker-missing-overnight-in-ben-lawers-mountain-range
+
+2. 補欠選挙候補者の不適切発言が問題に⚡
+Carol Vorderman issues challenge to Reform UK after 'disgusting' post about her
+https://www.thenational.scot/news/26135363.carol-vorderman-labels-reform-uk-candidate-robert-kenyon-misogynist/?ref=rss
+
+3. 信号故障と火災でスコットランド鉄道に遅延が発生しました。
+ScotRail services disrupted at popular ferry port on bank holiday
+https://www.heraldscotland.com/news/26135489.rail-passengers-travelling-wemyss-bay-glasgow-hit-delays/?ref=rss
+
+4. 元SNP代表が横領罪で出廷します。
+Peter Murrell in court accused of embezzling £459,000 from SNP over 12-year period
+https://news.stv.tv/scotland/peter-murrell-in-court-accused-of-embezzling-459000-from-snp-over-12-year-period
+
+5. レンジャーズ、ハート・オブ・ミドロシアンのキャプテンを獲得へ
+Rangers agree deal for Hearts captain Shankland
+https://www.bbc.com/sport/football/articles/c8d8lpqjy2go?at_medium=RSS&amp;at_campaign=rss
+
+6. フォールドハウスで屋外火災が発生、住民に窓やドアを閉めるよう呼びかけ。
+Fire crews battling outdoor blaze in Fauldhouse as locals urged to close windows and doors
+https://news.stv.tv/east-central/fire-crews-battling-outdoor-blaze-in-fauldhouse-as-locals-urged-to-close-windows-and-doors
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260524.mp3" length="8677712" type="audio/mpeg" /><itunes:duration>9:02</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260524.txt" type="text/plain" language="ja" /></item><item><title>20260521 - グラスゴーのサマーセッション、懸念を乗り越え開催へ</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260521.html</link><guid isPermaLink="false">scotnews_20260521</guid><pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. グラスゴーのサマーセッション、懸念を乗り越え開催へ⚡
 Glasgow Summer Sessions get go ahead despite local concerns over rising number of gigs
@@ -155,30 +181,4 @@ https://news.stv.tv/sport/james-tavernier-deeply-hurt-and-let-down-after-missing
 Student dies and two people being treated after meningitis outbreak in Reading
 https://news.stv.tv/world/student-dies-and-two-people-being-treated-after-meningitis-outbreak-in-reading
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260514.mp3" length="8000301" type="audio/mpeg" /><itunes:duration>8:19</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260514.txt" type="text/plain" language="ja" /></item><item><title>20260513 - ヴェスヴィオ火山の噴火を描いた絵画が2万5千ポンド超で落札されました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260513.html</link><guid isPermaLink="false">scotnews_20260513</guid><pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. ヴェスヴィオ火山の噴火を描いた絵画が2万5千ポンド超で落札されました。⚡
-Image of Vesuvius erupting by painter said to have witnessed it fetches £25,000
-https://news.stv.tv/east-central/image-of-vesuvius-erupting-by-painter-said-to-have-witnessed-it-fetches-25000
-
-2. 自転車との接触事故、車両の画像公開⚡
-Police hunting driver after crash with cyclist release image of car
-https://news.stv.tv/west-central/police-hunting-driver-after-crash-with-cyclist-release-image-of-car
-
-3. スコットランド新議会、聖ギレス大聖堂で開会式典⚡
-Start of new Holyrood parliament offers 'new beginning', says Kirk moderator
-https://www.thenational.scot/news/26104978.kirking-parliament-offers-new-beginning-says-moderator/?ref=rss
-
-4. グラスゴーとエディンバラを結ぶ列車に遅延が発生しています。
-Delays on key inter-city train line as signalling fault causes disruption
-https://www.thenational.scot/news/26105071.delays-glasgow-edinburgh-train-route-scotrail/?ref=rss
-
-5. ハーツ、セルティック戦で引き分け以上なら優勝決定。
-Hearts set for final-day title showdown at Celtic after easing past Falkirk
-https://news.stv.tv/sport/hearts-set-for-final-day-title-showdown-at-celtic-after-easing-past-falkirk
-
-6. セルティック、劇的な逆転で優勝決定戦へ
-Celtic score last-minute winner as title race goes to final day against Hearts
-https://news.stv.tv/sport/celtic-score-last-minute-winner-as-title-race-goes-to-final-day-against-hearts
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260513.mp3" length="8145650" type="audio/mpeg" /><itunes:duration>8:29</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260513.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260514.mp3" length="8000301" type="audio/mpeg" /><itunes:duration>8:19</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260514.txt" type="text/plain" language="ja" /></item></channel></rss>
