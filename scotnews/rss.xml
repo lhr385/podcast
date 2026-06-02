@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260601 - スコットランドで家畜271頭が身元不明で屠殺へ</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260601.html</link><guid isPermaLink="false">scotnews_20260601</guid><pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260602 - グラスゴーでの音楽祭が中止となりました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260602.html</link><guid isPermaLink="false">scotnews_20260602</guid><pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. グラスゴーでの音楽祭が中止となりました。⚡
+World-renowned music festival cancels Scottish edition weeks before event
+https://www.thenational.scot/news/26160832.first-ever-womad-festival-scotland-cancelled/?ref=rss
+
+2. アードロサン学校新キャンパス、汚染物質除去で開校遅延⚡
+New £125m Scottish mega-school delayed again as asbestos removed from site
+https://www.thenational.scot/news/26160653.new-125m-scottish-mega-school-delayed-asbestos-found-site/?ref=rss
+
+3. スコットランド、学校での携帯電話全面禁止へ⚡
+Scottish schools to be 'phone-free environments' under new law, SNP announce
+https://www.thenational.scot/news/26160393.scottish-schools-phone-free-environments-new-law/?ref=rss
+
+4. スコットランドの議席を巡る保守党とSNPの争い。
+Will Aberdeen's energy future decide the by-election?
+https://www.bbc.com/news/articles/cvgzrr2jkg2o?at_medium=RSS&amp;at_campaign=rss
+
+5. 資産凍結で横領金の返済が可能と弁護士が法廷で発言。
+We now know how Peter Murrell embezzled from the SNP - but not why
+https://www.bbc.com/news/articles/cdxpwwzlvzno?at_medium=RSS&amp;at_campaign=rss
+
+6. スコットランドの小規模水力発電、競争激化で資金確保困難に。
+Developers say hydro power 'being missed' because of wind focus
+https://www.bbc.com/news/articles/ckgp4je1q8ko?at_medium=RSS&amp;at_campaign=rss
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260602.mp3" length="6848723" type="audio/mpeg" /><itunes:duration>7:08</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260602.txt" type="text/plain" language="ja" /></item><item><title>20260601 - スコットランドで家畜271頭が身元不明で屠殺へ</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260601.html</link><guid isPermaLink="false">scotnews_20260601</guid><pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. スコットランドで家畜271頭が身元不明で屠殺へ⚡
 271 animals to be slaughtered on Fife farm following failed cattle inspection
@@ -155,30 +181,4 @@ https://www.bbc.com/sport/football/articles/c8d8lpqjy2go?at_medium=RSS&amp;at_ca
 Fire crews battling outdoor blaze in Fauldhouse as locals urged to close windows and doors
 https://news.stv.tv/east-central/fire-crews-battling-outdoor-blaze-in-fauldhouse-as-locals-urged-to-close-windows-and-doors
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260524.mp3" length="8677712" type="audio/mpeg" /><itunes:duration>9:02</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260524.txt" type="text/plain" language="ja" /></item><item><title>20260521 - グラスゴーのサマーセッション、懸念を乗り越え開催へ</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260521.html</link><guid isPermaLink="false">scotnews_20260521</guid><pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. グラスゴーのサマーセッション、懸念を乗り越え開催へ⚡
-Glasgow Summer Sessions get go ahead despite local concerns over rising number of gigs
-https://news.stv.tv/west-central/glasgow-summer-sessions-get-go-ahead-despite-local-concerns-over-rising-number-of-gigs
-
-2. スコットランドの空港でストライキの可能性が高まっています。⚡
-Major summer disruption expected as hundreds of Scottish airport workers to strike
-https://www.thenational.scot/news/26129767.summer-disruption-hundreds-airport-workers-strike/?ref=rss
-
-3. パースで不審物発見、少年逮捕。住民避難。
-Teenager arrested in connection with discovery of suspicious item
-https://news.stv.tv/north/teenager-arrested-in-connection-with-discovery-of-suspicious-item
-
-4. 別荘所有者団体、自治体の対応に不満を表明
-Highland Council accused of favouring short-term lets over second home owners
-https://news.stv.tv/highlands-islands/highland-council-accused-of-favouring-short-term-lets-over-second-home-owners
-
-5. スコットランドの空港で、賃上げ交渉が進んでいます。
-Airport staff may strike during World Cup and Commonwealth Games
-https://www.bbc.com/news/articles/c5yr5134nv3o?at_medium=RSS&amp;at_campaign=rss
-
-6. エディンバラで発生した騒動、少女3人が逮捕されました。
-Three female youths charged following disturbance in Edinburgh
-https://news.stv.tv/east-central/three-female-youths-charged-following-disturbance-in-edinburgh
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260521.mp3" length="7333137" type="audio/mpeg" /><itunes:duration>7:38</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260521.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260524.mp3" length="8677712" type="audio/mpeg" /><itunes:duration>9:02</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260524.txt" type="text/plain" language="ja" /></item></channel></rss>
