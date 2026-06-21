@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260618 - 動物園で少年がワニの囲いに落ち、重傷を負う事件が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260618.html</link><guid isPermaLink="false">scotnews_20260618</guid><pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260621 - リヴィングストンで小学校の屋根が燃える火災が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260621.html</link><guid isPermaLink="false">scotnews_20260621</guid><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. リヴィングストンで小学校の屋根が燃える火災が発生しました。⚡
+West Lothian primary school 'deliberately' set on fire
+https://www.thenational.scot/news/26214424.livingston-primary-school-deliberately-set-fire/?ref=rss
+
+2. スプリングバーン通りで単独事故、男性死亡⚡
+Man who died in motorcycle crash named as investigation continues
+https://www.thenational.scot/news/26214329.glasgow-man-died-motorcycle-crash-named-police/?ref=rss
+
+3. スコットランド、抗議活動で男性逮捕⚡
+Man arrested after disorder at anti-immigration protest in Arbroath
+https://www.thenational.scot/news/26214202.man-arrested-arbroath-anti-immigration-disorder/?ref=rss
+
+4. 若手アーティスト、BBC Introducingステージの重要性を語る
+Sunny TRNSMT swaps ponchos for water bottles ahead of Lewis Capaldi closer
+https://www.bbc.com/news/articles/c0ryvrerl4ko?at_medium=RSS&amp;at_campaign=rss
+
+5. スコットランドの児童貧困対策、効果を研究者が評価。
+Glasgow-led study finds child payment cuts food insecurity but families struggle
+https://www.heraldscotland.com/news/26214566.glasgow-study-finds-scottish-child-payment-cuts-food-insecurity/?ref=rss
+
+6. エディンバラでイスラム教徒コミュニティーへの襲撃事件が発生しました。
+Suspected anti-Muslim attacks condemned by Scotland's Christian and Jewish leaders
+https://www.heraldscotland.com/news/26214547.faith-leaders-unite-suspected-anti-muslim-attacks-edinburgh/?ref=rss
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260621.mp3" length="7992259" type="audio/mpeg" /><itunes:duration>8:19</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260621.txt" type="text/plain" language="ja" /></item><item><title>20260618 - 動物園で少年がワニの囲いに落ち、重傷を負う事件が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260618.html</link><guid isPermaLink="false">scotnews_20260618</guid><pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. 動物園で少年がワニの囲いに落ち、重傷を負う事件が発生しました。⚡
 Attempted murder arrest after 3-year-old boy ends up in crocodile enclosure
@@ -155,30 +181,4 @@ https://www.bbc.com/news/articles/cly0n40j2pwo?at_medium=RSS&amp;at_campaign=rss
 Dan Jarvis named new defence secretary as Al Carns quits government – UK politics as it happened
 https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260611.mp3" length="7122477" type="audio/mpeg" /><itunes:duration>7:25</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260611.txt" type="text/plain" language="ja" /></item><item><title>20260610 - バスを降りた20歳男性の安否を警察が心配しています。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260610.html</link><guid isPermaLink="false">scotnews_20260610</guid><pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. バスを降りた20歳男性の安否を警察が心配しています。⚡
-Police ‘extremely concerned’ for 20-year-old man last seen getting off bus
-https://news.stv.tv/east-central/police-extremely-concerned-for-20-year-old-man-last-seen-getting-off-bus
-
-2. スカイ島のユーグホテルが売却されました。⚡
-Popular island hotel with panoramic sea views sold
-https://www.thenational.scot/news/26184272.popular-skye-hotel-panoramic-sea-views-sold/?ref=rss
-
-3. 許可なく深夜営業していたデザート店に批判の声
-Glasgow dessert shop accused of ‘putting profit before safety’
-https://news.stv.tv/west-central/glasgow-dessert-shop-accused-of-putting-profit-before-safety
-
-4. グリーンロックで抗議活動、警察が立ち入りを控えるよう呼びかけ
-Police warn public to ‘avoid the area’ as protest unfolds in Greenock
-https://news.stv.tv/west-central/police-warn-public-to-avoid-the-area-as-protest-unfolds-in-greenock
-
-5. 俳優デヴィッド・ハーバー、元妻リリー・アレンのアルバムについて語る。
-David Harbour breaks silence on Lily Allen album: ‘I respect her for doing that’
-https://news.stv.tv/entertainment/david-harbour-breaks-silence-on-lily-allen-album-i-respect-her-for-doing-that
-
-6. スコットランド国民党の統治体制見直しを求める声
-Scottish Parliament rejects call for Peter Murrell inquiry
-https://www.bbc.com/news/articles/c30yl5dvlymo?at_medium=RSS&amp;at_campaign=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260610.mp3" length="7304716" type="audio/mpeg" /><itunes:duration>7:36</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260610.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260611.mp3" length="7122477" type="audio/mpeg" /><itunes:duration>7:25</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260611.txt" type="text/plain" language="ja" /></item></channel></rss>
