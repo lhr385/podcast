@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260629 - スコットランドで牛が道路に、乗客が重体。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260629.html</link><guid isPermaLink="false">scotnews_20260629</guid><pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260630 - グラスゴーの病院でエボラ出血熱の疑いがある患者の検査が行われています。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260630.html</link><guid isPermaLink="false">scotnews_20260630</guid><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. グラスゴーの病院でエボラ出血熱の疑いがある患者の検査が行われています。⚡
+Patient being tested for Ebola virus at Glasgow hospital
+https://www.theguardian.com/uk-news/2026/jun/30/patient-being-tested-for-suspected-ebola-virus-at-glasgow-hospital
+
+2. ファラージ氏、新たな収入源を公表。⚡
+Nigel Farage declares £270k payment for just 12 HOURS' work promoting gold bullion
+https://www.thenational.scot/news/26241922.nigel-farage-paid-270-000-promoting-gold-bullion/?ref=rss
+
+3. エボラ出血熱の疑い患者、スコットランドで陰性と判明。
+Patient tests negative after Ebola alert at Glasgow hospital
+https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&amp;at_campaign=rss
+
+4. アバンティ・ウェスト・コーストの運転士、賃金交渉決裂でスト投票へ
+Avanti West Coast drivers to be balloted over strike action in pay dispute
+https://news.stv.tv/scotland/avanti-west-coast-drivers-to-be-balloted-over-strike-action-in-pay-dispute
+
+5. タクシー運転手の性犯罪、営業許可継続に批判の声
+Taxi driver who raped teenager then dumped her in freezing temperatures allowed to keep operator licence
+https://news.stv.tv/highlands-islands/taxi-driver-who-raped-teenager-then-dumped-her-in-freezing-temperatures-allowed-to-keep-operator-licence
+
+6. メタリカのファンがグラスゴーのフードバンクを支援しました。
+'Significant' Metallica charity donation boosts Glasgow foodbank
+https://www.heraldscotland.com/news/26242477.significant-metallica-donation-boosts-glasgow-foodbank/?ref=rss
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260630.mp3" length="9026708" type="audio/mpeg" /><itunes:duration>9:24</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260630.txt" type="text/plain" language="ja" /></item><item><title>20260629 - スコットランドで牛が道路に、乗客が重体。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260629.html</link><guid isPermaLink="false">scotnews_20260629</guid><pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. スコットランドで牛が道路に、乗客が重体。⚡
 Teenager in 'life-threatening condition' and five cows dead after crash
@@ -155,30 +181,4 @@ https://www.bbc.com/news/articles/cn94251n4j9o?at_medium=RSS&amp;at_campaign=rss
 Peter Murrell to be sentenced for embezzling SNP funds
 https://www.bbc.com/news/articles/c5yzlqv4dyeo?at_medium=RSS&amp;at_campaign=rss
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260622.mp3" length="6930643" type="audio/mpeg" /><itunes:duration>7:13</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260622.txt" type="text/plain" language="ja" /></item><item><title>20260621 - リヴィングストンで小学校の屋根が燃える火災が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260621.html</link><guid isPermaLink="false">scotnews_20260621</guid><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. リヴィングストンで小学校の屋根が燃える火災が発生しました。⚡
-West Lothian primary school 'deliberately' set on fire
-https://www.thenational.scot/news/26214424.livingston-primary-school-deliberately-set-fire/?ref=rss
-
-2. スプリングバーン通りで単独事故、男性死亡⚡
-Man who died in motorcycle crash named as investigation continues
-https://www.thenational.scot/news/26214329.glasgow-man-died-motorcycle-crash-named-police/?ref=rss
-
-3. スコットランド、抗議活動で男性逮捕⚡
-Man arrested after disorder at anti-immigration protest in Arbroath
-https://www.thenational.scot/news/26214202.man-arrested-arbroath-anti-immigration-disorder/?ref=rss
-
-4. 若手アーティスト、BBC Introducingステージの重要性を語る
-Sunny TRNSMT swaps ponchos for water bottles ahead of Lewis Capaldi closer
-https://www.bbc.com/news/articles/c0ryvrerl4ko?at_medium=RSS&amp;at_campaign=rss
-
-5. スコットランドの児童貧困対策、効果を研究者が評価。
-Glasgow-led study finds child payment cuts food insecurity but families struggle
-https://www.heraldscotland.com/news/26214566.glasgow-study-finds-scottish-child-payment-cuts-food-insecurity/?ref=rss
-
-6. エディンバラでイスラム教徒コミュニティーへの襲撃事件が発生しました。
-Suspected anti-Muslim attacks condemned by Scotland's Christian and Jewish leaders
-https://www.heraldscotland.com/news/26214547.faith-leaders-unite-suspected-anti-muslim-attacks-edinburgh/?ref=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260621.mp3" length="7992259" type="audio/mpeg" /><itunes:duration>8:19</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260621.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260622.mp3" length="6930643" type="audio/mpeg" /><itunes:duration>7:13</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260622.txt" type="text/plain" language="ja" /></item></channel></rss>
