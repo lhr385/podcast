@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260705 - ミッドロージアンの物件で危険物か、男性が病院へ搬送。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260705.html</link><guid isPermaLink="false">scotnews_20260705</guid><pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260706 - AIデータセンター計画、地域住民は土地や財産を失う懸念</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260706.html</link><guid isPermaLink="false">scotnews_20260706</guid><pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. AIデータセンター計画、地域住民は土地や財産を失う懸念⚡⚡
+‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre
+https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre
+
+2. フィフでの交通事故で17歳少年が死亡、家族は悲嘆に暮れる⚡
+Family ‘devastated’ after death of ‘hardworking’ teen in Fife crash
+https://news.stv.tv/east-central/family-devastated-after-death-of-hardworking-teen-in-fife-crash
+
+3. グラスゴー公園での少女への性的暴行容疑で男が裁判に。⚡
+Man appears in court charged with rape of teenage girl at Glasgow park
+https://news.stv.tv/west-central/man-appears-in-court-charged-with-rape-of-teenage-girl-at-glasgow-park
+
+4. グラスゴーがボストンに「本物の」コーンを贈るキャンペーンを開始しました。⚡
+Glasgow hoping to attract Americans to see city landmark after World Cup cone frenzy
+https://www.thenational.scot/news/26257617.glasgow-uses-funny-landmark-target-american-tourists/?ref=rss
+
+5. 車が家屋に突っ込み、放火された事件の容疑者を捜査中です。⚡
+Car driven into Glasgow house and set alight as manhunt for three suspects launched
+https://news.stv.tv/west-central/car-driven-into-glasgow-house-and-set-alight-as-manhunt-for-three-suspects-launched
+
+6. コーツブリッジで少女が性的暴行を受けた事件で男が逮捕されました。⚡
+Man arrested two weeks after teenage girl sexually assaulted in Coatbridge lane
+https://news.stv.tv/west-central/man-arrested-two-weeks-after-teenage-girl-sexually-assaulted-in-coatbridge-lane
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260706.mp3" length="8188845" type="audio/mpeg" /><itunes:duration>8:31</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260706.txt" type="text/plain" language="ja" /></item><item><title>20260705 - ミッドロージアンの物件で危険物か、男性が病院へ搬送。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260705.html</link><guid isPermaLink="false">scotnews_20260705</guid><pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. ミッドロージアンの物件で危険物か、男性が病院へ搬送。⚡
 Man taken to hospital after possible ‘hazardous material’ found at property in Bonnyrigg
@@ -155,30 +181,4 @@ https://www.heraldscotland.com/news/26235191.new-brewdog-owner-spends-50m-flound
 Fire breaks out at abandoned Paisley hospital as public urged to avoid area
 https://news.stv.tv/west-central/fire-breaks-out-at-abandoned-paisley-hospital-as-public-urged-to-avoid-area
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260628.mp3" length="8412333" type="audio/mpeg" /><itunes:duration>8:45</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260628.txt" type="text/plain" language="ja" /></item><item><title>20260625 - スコットランド、刑期短縮の提案で刑務所の混雑緩和を目指す</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260625.html</link><guid isPermaLink="false">scotnews_20260625</guid><pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. スコットランド、刑期短縮の提案で刑務所の混雑緩和を目指す⚡
-Prisoners serving five-year sentences could get out after 30% of term served
-https://news.stv.tv/scotland/prisoners-serving-five-year-sentences-could-get-out-after-30-of-term-served
-
-2. グラスゴーとボストン、姉妹都市提携へ一歩前進
-Glasgow councillors approve Boston twinning plan
-https://news.stv.tv/west-central/glasgow-councillors-approve-boston-twinning-plan
-
-3. ラーグスで店舗への侵入と窃盗が発生しました。
-Famous Scottish ice cream parlour targeted in break-in
-https://www.heraldscotland.com/news/26229596.nardinis-cafe-targeted-thief-overnight-largs-raid/?ref=rss
-
-4. スコットランド保守党党首、スウィニー氏を「隠蔽の王」と非難
-John Swinney hits back at ‘baseless’ claims of SNP ‘cover-up’ of Murrell’s crimes
-https://www.thenational.scot/news/26229586.john-swinney-hits-back-baseless-claims-snp-cover-up/?ref=rss
-
-5. アイルランド統一の可能性、イギリスの政治情勢が影響か
-Three reasons Irish reunification could be nearer than we think
-https://www.thenational.scot/news/26229371.3-reasons-irish-reunification-nearer-think/?ref=rss
-
-6. スコットランド代表のレベルを巡る議論
-Are Scotland 'not good enough' to impress at World Cup?
-https://www.bbc.co.uk/sport/football/articles/crelxn895rro?at_medium=RSS&amp;at_campaign=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260625.mp3" length="8960671" type="audio/mpeg" /><itunes:duration>9:20</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260625.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260628.mp3" length="8412333" type="audio/mpeg" /><itunes:duration>8:45</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260628.txt" type="text/plain" language="ja" /></item></channel></rss>
