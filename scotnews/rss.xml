@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260708 - AIデータセンター計画で地元住民が不安を抱えるスコットランド</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260708.html</link><guid isPermaLink="false">scotnews_20260708</guid><pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260709 - 農業用地への大規模蓄電池設置計画、地元委員会の承認却下</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260709.html</link><guid isPermaLink="false">scotnews_20260709</guid><pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. 農業用地への大規模蓄電池設置計画、地元委員会の承認却下⚡
+Battery storage site plans next to garden centre rejected by council
+https://www.thenational.scot/news/26268338.battery-storage-site-plans-beside-garden-centre-perthshire-rejected/?ref=rss
+
+2. エディンバラの歴史的建物で火災、復旧が呼びかけられています。⚡
+Heritage charity urges full restoration of 'unique' fire-hit Princes Street landmark
+https://www.heraldscotland.com/news/26268193.edinburgh-world-heritage-urges-princes-street-building-restored/?ref=rss
+
+3. グラスゴーで女性が襲われ、警察が男性を捜索しています。
+Manhunt launched after woman attacked during early hours in Glasgow
+https://news.stv.tv/west-central/manhunt-launched-after-woman-attacked-during-early-hours-in-glasgow
+
+4. 犬をケージに閉じ込めた女性、ペット飼育禁止と罰金に
+Oban woman banned from owning pets and fined after keeping emaciated dog in cage
+https://news.stv.tv/west-central/oban-woman-banned-from-owning-pets-and-fined-after-keeping-emaciated-dog-in-cage
+
+5. レンフルーシャーの新駅、予定より早く開業へ
+New Renfrewshire train station to open weeks ahead of schedule
+https://news.stv.tv/west-central/new-renfrewshire-train-station-to-open-weeks-ahead-of-schedule
+
+6. エディンバラのプリンセスストリートで火災発生、道路一部再開も建物内への立ち入りは依然不可能
+Roads reopen after Princes Street blaze but fire crews unable to enter building
+https://news.stv.tv/east-central/roads-reopen-after-princes-street-blaze-but-fire-crews-unable-to-enter-building
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260709.mp3" length="9515720" type="audio/mpeg" /><itunes:duration>9:54</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260709.txt" type="text/plain" language="ja" /></item><item><title>20260708 - AIデータセンター計画で地元住民が不安を抱えるスコットランド</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260708.html</link><guid isPermaLink="false">scotnews_20260708</guid><pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. AIデータセンター計画で地元住民が不安を抱えるスコットランド⚡⚡
 ‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre
@@ -155,30 +181,4 @@ https://news.stv.tv/highlands-islands/councillors-approve-plans-for-isle-of-barr
 Developer loses appeal in bid to turn Glasgow townhouses into holiday lets
 https://news.stv.tv/west-central/developer-loses-appeal-in-bid-to-turn-glasgow-townhouses-into-holiday-lets
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260701.mp3" length="8186610" type="audio/mpeg" /><itunes:duration>8:31</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260701.txt" type="text/plain" language="ja" /></item><item><title>20260630 - グラスゴーの病院でエボラ出血熱の疑いがある患者の検査が行われています。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260630.html</link><guid isPermaLink="false">scotnews_20260630</guid><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. グラスゴーの病院でエボラ出血熱の疑いがある患者の検査が行われています。⚡
-Patient being tested for Ebola virus at Glasgow hospital
-https://www.theguardian.com/uk-news/2026/jun/30/patient-being-tested-for-suspected-ebola-virus-at-glasgow-hospital
-
-2. ファラージ氏、新たな収入源を公表。⚡
-Nigel Farage declares £270k payment for just 12 HOURS' work promoting gold bullion
-https://www.thenational.scot/news/26241922.nigel-farage-paid-270-000-promoting-gold-bullion/?ref=rss
-
-3. エボラ出血熱の疑い患者、スコットランドで陰性と判明。
-Patient tests negative after Ebola alert at Glasgow hospital
-https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&amp;at_campaign=rss
-
-4. アバンティ・ウェスト・コーストの運転士、賃金交渉決裂でスト投票へ
-Avanti West Coast drivers to be balloted over strike action in pay dispute
-https://news.stv.tv/scotland/avanti-west-coast-drivers-to-be-balloted-over-strike-action-in-pay-dispute
-
-5. タクシー運転手の性犯罪、営業許可継続に批判の声
-Taxi driver who raped teenager then dumped her in freezing temperatures allowed to keep operator licence
-https://news.stv.tv/highlands-islands/taxi-driver-who-raped-teenager-then-dumped-her-in-freezing-temperatures-allowed-to-keep-operator-licence
-
-6. メタリカのファンがグラスゴーのフードバンクを支援しました。
-'Significant' Metallica charity donation boosts Glasgow foodbank
-https://www.heraldscotland.com/news/26242477.significant-metallica-donation-boosts-glasgow-foodbank/?ref=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260630.mp3" length="9026708" type="audio/mpeg" /><itunes:duration>9:24</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260630.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260701.mp3" length="8186610" type="audio/mpeg" /><itunes:duration>8:31</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260701.txt" type="text/plain" language="ja" /></item></channel></rss>
