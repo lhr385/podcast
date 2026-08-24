@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260823 - ダンディナルドで男性が路上で発見され、死亡しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260823.html</link><guid isPermaLink="false">scotnews_20260823</guid><pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260824 - 元スヌーカー選手、性的虐待で有罪判決</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260824.html</link><guid isPermaLink="false">scotnews_20260824</guid><pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. 元スヌーカー選手、性的虐待で有罪判決⚡
+Ex-snooker champion Graeme Dott found guilty of sexually abusing school children
+https://www.thenational.scot/news/26490567.graeme-dott-found-guilty-sexually-abusing-primary-school-children/?ref=rss
+
+2. アイルシャーで男性死亡、殺人事件として捜査開始
+Murder inquiry launched after death of man found injured in street
+https://www.bbc.co.uk/news/articles/cp801jev860o?at_medium=RSS&amp;at_campaign=rss
+
+3. スコットランドでウクライナ独立記念日の追悼集会が開かれました。
+Ukrainians gather in Glasgow to mark Independence Day
+https://www.thenational.scot/news/26491844.ukrainians-mark-independence-day-glasgow-city-centre/?ref=rss
+
+4. コールズノートン沈下被害者への精神的支援強化を求める声
+Calls for additional support for Coalsnaughton residents impacted by ground movement
+https://news.stv.tv/west-central/calls-for-additional-support-for-coalsnaughton-residents-impacted-by-ground-movement
+
+5. スコットランド、山火事リスク軽減のため今すぐ行動を
+Scotland ‘must act now’ to reduce wildfire risk, says chief firefighter
+https://news.stv.tv/scotland/scotland-must-act-now-to-reduce-wildfire-risk-says-chief-firefighter
+
+6. 店主、マチェット強盗に立ち向かう
+Investigations ongoing after East Kilbride Day Today shopkeeper fends off machete-wielding robber
+https://news.stv.tv/west-central/investigations-ongoing-after-east-kilbride-day-today-shopkeeper-fends-off-machete-wielding-robber
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260824.mp3" length="8857017" type="audio/mpeg" /><itunes:duration>9:13</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260824.txt" type="text/plain" language="ja" /></item><item><title>20260823 - ダンディナルドで男性が路上で発見され、死亡しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260823.html</link><guid isPermaLink="false">scotnews_20260823</guid><pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. ダンディナルドで男性が路上で発見され、死亡しました。⚡
 Man, 57, dies after being found injured on Dundonald street
@@ -155,30 +181,4 @@ https://www.heraldscotland.com/news/26463314.many-lose-homes-fires-break-west-mi
 Cutting space at city centre rank will lead to more queues, say taxi drivers
 https://news.stv.tv/west-central/cutting-space-at-city-centre-rank-will-lead-to-more-queues-say-taxi-drivers
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260813.mp3" length="7361141" type="audio/mpeg" /><itunes:duration>7:40</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260813.txt" type="text/plain" language="ja" /></item><item><title>20260812 - スコットランドで日食観測、多くの人々が集まる</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260812.html</link><guid isPermaLink="false">scotnews_20260812</guid><pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. スコットランドで日食観測、多くの人々が集まる⚡
-Scots gather for first total solar eclipse over mainland Europe since 1999
-https://www.thenational.scot/news/26459751.scots-celebrate-first-total-solar-eclipse-since-1999/?ref=rss
-
-2. スコットランドで羊のブルー ผิวหนังウイルスが確認されました。⚡
-More cases of potentially deadly livestock virus detected in Scotland
-https://news.stv.tv/west-central/more-cases-of-potentially-deadly-livestock-virus-detected-in-scotland
-
-3. 交通コーン投げつけ、男性にけがを負わせた疑いの男、裁判で無罪主張。⚡
-Man who 'attacked delivery driver with traffic cone' in Glasgow faces court
-https://www.thenational.scot/news/26459602.far-right-thug-threw-traffic-cone-delivery-driver-faces-court/?ref=rss
-
-4. スコットランド労働党、新党首選出へ
-I went to Scottish Labour's leadership hustings. Here is what I learned
-https://www.thenational.scot/news/26459805.learned-scottish-labours-leadership-hustings/?ref=rss
-
-5. スコットランド労働党、新党首選で党勢回復目指す
-Scottish Labour leadership frontrunner says party 'deeply disconnected' from voters
-https://www.heraldscotland.com/news/26459791.scottish-labour-membership-third-contest-kicks-off/?ref=rss
-
-6. セルティック、エジプト代表ウィンガーのハッサン選手を獲得。
-Celtic sign winger Haissem Hassan on four-year deal from Real Oviedo
-https://news.stv.tv/sport/celtic-sign-winger-haissem-hassan-on-four-year-deal-from-real-oviedo
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260812.mp3" length="9213536" type="audio/mpeg" /><itunes:duration>9:35</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260812.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260813.mp3" length="7361141" type="audio/mpeg" /><itunes:duration>7:40</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260813.txt" type="text/plain" language="ja" /></item></channel></rss>
