@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260921 - スコットランド労働党新党首、将来決定権を支持</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260921.html</link><guid isPermaLink="false">scotnews_20260921</guid><pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20260922 - ショーンコネリー財団と国立映画テレビ学校がエディンバラに新施設を設立します。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260922.html</link><guid isPermaLink="false">scotnews_20260922</guid><pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. ショーンコネリー財団と国立映画テレビ学校がエディンバラに新施設を設立します。
+Sir Sean Connery's family reveals plans for permanent filmmaking hub in Edinburgh
+https://www.heraldscotland.com/news/26569546.connery-family-reveals-vision-new-filmmaking-centre-edinburgh/?ref=rss
+
+2. プレストウィックの管制システム障害でスコットランドなどの便が混乱しました。
+Airlines urge action after UK flights delayed and cancelled again
+https://www.theguardian.com/world/2026/sep/21/uk-airports-air-traffic-control-flights-cancelled-delays-nats-prestwick
+
+3. スコットランドで住宅の増築計画が認められました
+Homeowner wins appeal to build porch planners deemed '30cm too wide'
+https://www.thenational.scot/news/26569729.bonnyrigg-homeowner-wins-appeal-build-porch-planning-row/?ref=rss
+
+4. 元ハイランド議員が信任投票での反省なき姿勢に強い衝撃を受ける
+Ex-Highland council licensing member left ‘speechless’ by vote of no confidence meeting
+https://news.stv.tv/highlands-islands/ex-highland-council-licensing-member-left-speechless-by-vote-of-no-confidence-meeting
+
+5. ファイフで歩道駐車の禁止により三千件を超える罰金通知が出されました。
+Over 3,000 drivers issued penalty notices for pavement parking in Fife
+https://news.stv.tv/east-central/over-3000-drivers-issued-penalty-notices-for-pavement-parking-in-fife
+
+6. スコットランドの歴史ある教会で墓石が倒される恐れがあります。
+Unsafe headstones at risk of being laid flat in historic East Lothian graveyard
+https://news.stv.tv/east-central/unsafe-headstones-at-risk-of-being-laid-flat-in-historic-east-lothian-graveyard
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260922.mp3" length="7640337" type="audio/mpeg" /><itunes:duration>7:57</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260922.txt" type="text/plain" language="ja" /></item><item><title>20260921 - スコットランド労働党新党首、将来決定権を支持</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260921.html</link><guid isPermaLink="false">scotnews_20260921</guid><pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. スコットランド労働党新党首、将来決定権を支持⚡
 FM responds as Michael Marra accepts 'Scotland has right to decide its own future'
@@ -155,30 +181,4 @@ https://news.stv.tv/north/man-arrested-after-police-and-paramedics-attacked-and-
 Westminster’s time is coming to an end, say first ministers of UK’s Celtic nations
 https://www.theguardian.com/politics/2026/sep/14/westminster-first-ministers-uk-celtic-nations-wales-northern-ireland-scotland
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260914.mp3" length="7523373" type="audio/mpeg" /><itunes:duration>7:50</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260914.txt" type="text/plain" language="ja" /></item><item><title>20260913 - オールドファーム戦、大きな混乱なく終了。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260913.html</link><guid isPermaLink="false">scotnews_20260913</guid><pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. オールドファーム戦、大きな混乱なく終了。⚡
-Four arrested at Ibrox during Rangers v Celtic match amid 'sectarian abuse'
-https://www.thenational.scot/news/26546395.4-arrested-rangers-v-celtic-ibrox-match-amid-sectarian-abuse/?ref=rss
-
-2. スコットランド国境付近で交通事故が発生し、1名が死亡しました。⚡
-Van driver dies as two other drivers injured following Borders crash
-https://news.stv.tv/east-central/van-driver-dies-as-two-other-drivers-injured-following-borders-crash
-
-3. ペイズリーでバイク事故、19歳男性が重傷。⚡
-Off-road biker, 19, fighting for life in hospital following crash with car in Paisley
-https://news.stv.tv/west-central/off-road-biker-19-fighting-for-life-in-hospital-following-crash-with-car
-
-4. スコットランドの道路が警察により封鎖されました。
-Police shut road and pavements amid ongoing incident
-https://www.heraldscotland.com/news/26546515.police-close-duke-street-glasgow-amid-ongoing-incident/?ref=rss
-
-5. 元王室警備員、アンドリュー王子への女性の出入りに便宜があったと証言。
-Andrew 'breached security rules to take young women to Buckingham Palace', FBI told
-https://www.thenational.scot/news/26546462.andrew-breached-security-rules-taking-young-women-buckingham-palace/?ref=rss
-
-6. グラスゴー、デュークストリートで警察が封鎖
-Street outside Rangers pub cordoned off and road closed amid incident
-https://www.thenational.scot/news/26546426.street-outside-rangers-pub-glasgow-cordoned-off-amid-incident/?ref=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260913.mp3" length="7983482" type="audio/mpeg" /><itunes:duration>8:18</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260913.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20260914.mp3" length="7523373" type="audio/mpeg" /><itunes:duration>7:50</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20260914.txt" type="text/plain" language="ja" /></item></channel></rss>
