@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20261027 - スコットランドの海岸近くの海で男性が目撃され警察が捜索しています</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261027.html</link><guid isPermaLink="false">scotnews_20261027</guid><pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20261028 - スコットランドの試験結果発表で生徒が経験した理不尽な現実</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261028.html</link><guid isPermaLink="false">scotnews_20261028</guid><pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. スコットランドの試験結果発表で生徒が経験した理不尽な現実
+'My legs buckled when I opened my exam results during Covid'
+https://www.bbc.co.uk/news/articles/cwx283rn5yrgo?at_medium=RSS&amp;at_campaign=rss
+
+2. スコットランドの町で住民が土地を初めて強制買収しました。
+Community group completes 'first' hostile buy-out of eyesore plot of land in St Andrews
+https://www.bbc.co.uk/news/articles/c62l4wkrw82xo?at_medium=RSS&amp;at_campaign=rss
+
+3. スコットランドの島で希少な鳥の保護活動が進められています。
+Rare manx shearwaters returned to Isle of Canna in bird conservation bid
+https://www.bbc.co.uk/news/articles/cr4g1577jyv6o?at_medium=RSS&amp;at_campaign=rss
+
+4. スコットランド西部諸島で糖尿病治療薬の処方率が他地域より高いことが分かりました。
+NHS Western Isles prescribing weight loss drugs at triple the rate of other health boards
+https://www.bbc.co.uk/news/articles/c98rz4g0zgldo?at_medium=RSS&amp;at_campaign=rss
+
+5. レンジャーズが終了間際の得点でハーツと引き分けました。
+Olwethu Makhanya earns Rangers a point in Derek McInnes’ Tynecastle return
+https://news.stv.tv/sport/olwethu-makhanya-earns-rangers-a-point-in-derek-mcinnes-tynecastle-return
+
+6. ダンディーがキルマーノックに勝利しました
+Pressure mounts on Kilmarnock boss Neil McCann after loss to Dundee
+https://news.stv.tv/sport/pressure-mounts-on-kilmarnock-boss-neil-mccann-after-loss-to-dundee
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261028.mp3" length="7481930" type="audio/mpeg" /><itunes:duration>7:47</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261028.txt" type="text/plain" language="ja" /></item><item><title>20261027 - スコットランドの海岸近くの海で男性が目撃され警察が捜索しています</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261027.html</link><guid isPermaLink="false">scotnews_20261027</guid><pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. スコットランドの海岸近くの海で男性が目撃され警察が捜索しています⚡⚡⚡
 Police search for two men after person 'swept out to sea' in Scottish town
@@ -155,30 +181,4 @@ https://news.stv.tv/entertainment/richard-e-grant-denies-staging-traitors-reveal
 Two men re-arrested on suspicion of assisting Iran over RAF Fairford incident
 https://news.stv.tv/world/two-men-re-arrested-on-suspicion-of-assisting-iran-over-raf-fairford-incident
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261020.mp3" length="6739217" type="audio/mpeg" /><itunes:duration>7:01</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261020.txt" type="text/plain" language="ja" /></item><item><title>20261019 - スコットランド南部の漁村における地下住宅の計画が最終的に却下されました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261019.html</link><guid isPermaLink="false">scotnews_20261019</guid><pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. スコットランド南部の漁村における地下住宅の計画が最終的に却下されました。
-Underground house in fishing village loses planning appeal
-https://www.bbc.co.uk/news/articles/cm3vqd94g9d7o?at_medium=RSS&amp;at_campaign=rss
-
-2. スコットランド首相のバス公営化方針に業界から強い反発が出ています。
-Should Scotland look to London and Manchester for inspiration on buses?
-https://www.bbc.co.uk/news/articles/c9e8l6vv864eo?at_medium=RSS&amp;at_campaign=rss
-
-3. 民間駐車場の新ルール導入でドライバーの権利が拡大されます。
-Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines
-https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice
-
-4. 新しい規則により駐車違反金の負担が大幅に軽減されます
-Drivers to get new rights to challenge ‘rip-off’ private parking charges
-https://www.heraldscotland.com/news/26651390.drivers-get-new-rights-challenge-unfair-parking-fines/?ref=rss
-
-5. エディンバラ城で来年のツール・ド・フランス開幕式が開催されます。
-Edinburgh Castle to host 2027 Tour de France opening ceremony
-https://news.stv.tv/east-central/edinburgh-castle-to-host-2027-tour-de-france-opening-ceremony
-
-6. スコットランドでハイランド評議会を分割する議論が始まっています。
-Inverness MSP calls for standalone city council amid Scottish local government reform
-https://www.heraldscotland.com/news/26651400.msp-urges-standalone-inverness-council-reform-plans/?ref=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261019.mp3" length="7229066" type="audio/mpeg" /><itunes:duration>7:31</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261019.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261020.mp3" length="6739217" type="audio/mpeg" /><itunes:duration>7:01</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261020.txt" type="text/plain" language="ja" /></item></channel></rss>
