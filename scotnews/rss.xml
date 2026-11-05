@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20261104 - スコットランドでバス事故により十二歳の少女が亡くなりました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261104.html</link><guid isPermaLink="false">scotnews_20261104</guid><pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20261105 - グラスゴー中心街の路上に多数の警察官が集結しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261105.html</link><guid isPermaLink="false">scotnews_20261105</guid><pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. グラスゴー中心街の路上に多数の警察官が集結しました。⚡
+Dozens of police officers lock down Glasgow city centre street
+https://news.stv.tv/west-central/dozens-of-police-officers-lock-down-glasgow-city-centre-street
+
+2. スコットランド政府はエルジンの病院の産科再開の遅れを三ヶ月前から把握していました。⚡
+Scottish Government knew of Dr Gray’s maternity target miss months before public admission
+https://news.stv.tv/north/scottish-government-knew-of-dr-grays-maternity-target-miss-months-before-public-admission
+
+3. 新法案により北海での新規石油と天然ガスの採掘許可が禁止されます。⚡
+Labour 'to outlaw new North Sea drilling' under proposed legislation
+https://www.thenational.scot/news/26700432.labour-to-outlaw-new-north-sea-drilling-new-legislation/?ref=rss
+
+4. スコットランドのキルウィニングで通学中の女子生徒が交通事故でお亡くなりになりました。⚡
+Tribute to 'popular and vibrant' schoolgirl killed in Scots bus collision
+https://www.thenational.scot/news/26700355.council-tribute-pupil-killed-kilwinning-bus-collision/?ref=rss
+
+5. ルイス島沖の漁船捜索で特定海域の調査が終了しました⚡
+Searches complete with nothing found at two sites in search for missing fisherman off the Isle of Lewis
+https://news.stv.tv/highlands-islands/searches-complete-with-nothing-found-at-two-sites-in-search-for-missing-fisherman-off-the-isle-of-lewis
+
+6. エルジンアカデミーに届いた不審物は無害であることが確認されました。⚡
+No harmful substances found in package that triggered Elgin Academy evacuation as pupils allowed to return
+https://news.stv.tv/north/no-harmful-substances-found-in-package-that-triggered-elgin-academy-evacuation-as-pupils-allowed-to-return
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261105.mp3" length="8642603" type="audio/mpeg" /><itunes:duration>9:00</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261105.txt" type="text/plain" language="ja" /></item><item><title>20261104 - スコットランドでバス事故により十二歳の少女が亡くなりました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261104.html</link><guid isPermaLink="false">scotnews_20261104</guid><pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. スコットランドでバス事故により十二歳の少女が亡くなりました。⚡
 Girl, 12, dies after being hit by bus in North Ayrshire
@@ -155,30 +181,4 @@ https://www.bbc.co.uk/news/articles/cmvg93w8kxq3o?at_medium=RSS&amp;at_campaign=
 Weather warning lifted as third storm to hit Scotland eases off
 https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&amp;at_campaign=rss
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261027.mp3" length="7176236" type="audio/mpeg" /><itunes:duration>7:28</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261027.txt" type="text/plain" language="ja" /></item><item><title>20261026 - グラスゴー市議会の職員に対し労働組合が給与案の否決を呼びかけています。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261026.html</link><guid isPermaLink="false">scotnews_20261026</guid><pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. グラスゴー市議会の職員に対し労働組合が給与案の否決を呼びかけています。⚡
-Unison urges Glasgow City Council staff to reject pay package
-https://news.stv.tv/west-central/unison-urges-glasgow-city-council-staff-to-reject-pay-package
-
-2. 嵐の最中に倒木事故で亡くなられた植物園の責任者に追悼の意が捧げられています。⚡
-Tributes paid to man killed by falling tree in Storm Boelo
-https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o?at_medium=RSS&amp;at_campaign=rss
-
-3. 若者の間で野鳥観察の人気が高まっています
-I'm one of a growing number of Gen Z birdwatchers - it helps my mental health
-https://www.bbc.co.uk/news/articles/cm87zl3jej81o?at_medium=RSS&amp;at_campaign=rss
-
-4. スコットランドで起きた不審な死亡事件の再調査の遅れに遺族が怒りを表明しています。
-Family's anger at delays to review of stab death case
-https://www.bbc.co.uk/news/articles/cmwy9k2yg15xo?at_medium=RSS&amp;at_campaign=rss
-
-5. スコットランドで再び強い風と雨が警戒されています。
-New weather warnings as third storm set to hit Scotland
-https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&amp;at_campaign=rss
-
-6. ダンディー市が問題コンクリート住宅の改修予算案を承認しました。
-Dundee councillors approve £21m RAAC repair scheme
-https://www.bbc.co.uk/news/articles/cm78pxj4jn8yo?at_medium=RSS&amp;at_campaign=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261026.mp3" length="7712643" type="audio/mpeg" /><itunes:duration>8:02</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261026.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261027.mp3" length="7176236" type="audio/mpeg" /><itunes:duration>7:28</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261027.txt" type="text/plain" language="ja" /></item></channel></rss>
