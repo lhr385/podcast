@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20261115 - スコットランドで起きた交通事故の影響で道路が通行止めになっています。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261115.html</link><guid isPermaLink="false">scotnews_20261115</guid><pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>スコットランド・ニュース - Japanese Edition of Scottish News</title><link>https://lhr385.github.io/podcast/scotnews/index.html</link><language>ja</language><copyright>© 2025 KM</copyright><itunes:author>KM</itunes:author><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</description><itunes:explicit>no</itunes:explicit><podcast:locked>no</podcast:locked><podcast:guid>65d51d64-bde6-46fd-abb4-f8aa5bbd1ced</podcast:guid><atom:link href="https://lhr385.github.io/podcast/scotnews/rss.xml" rel="self" type="application/rss+xml" /><itunes:owner><itunes:name>KM</itunes:name><itunes:email>385.london+scotnews@gmail.com</itunes:email></itunes:owner><itunes:category text="News"><itunes:category text="Daily News" /></itunes:category><itunes:image href="https://lhr385.github.io/podcast/scotnews/artwork.jpg" /><image><url>https://lhr385.github.io/podcast/scotnews/artwork.jpg</url></image><item><title>20261117 - スコットランドの交通事故で四歳の男児が死亡しました</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261117.html</link><guid isPermaLink="false">scotnews_20261117</guid><pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
+
+1. スコットランドの交通事故で四歳の男児が死亡しました⚡⚡
+Four-year-old boy dies after crash as man, 28, charged
+https://www.thenational.scot/news/26735119.4-year-old-boy-dies-crash-bathgate-man-charged/?ref=rss
+
+2. 若者の就労支援改革案が発表され専門家から慎重な対応を求める声が上がっています。⚡
+Care must come before cuts, Andy Burnham warned as benefits overhaul unveiled
+https://www.thenational.scot/news/26734794.care-must-come-cuts-andy-burnham-warned-amid-benefits-overhaul/?ref=rss
+
+3. グラスゴー大学の愛された教授が逝去しました⚡
+Glasgow university pays tribute to ‘much-loved’ professor after death aged 50
+https://news.stv.tv/west-central/glasgow-university-pays-tribute-to-much-loved-professor-after-death-aged-50
+
+4. スコットランドの経済成長に向けて地域の権限拡大を求める報告書が発表されました。
+Regions need freedom from SNP’s ‘excessive’ oversight to grow economy, says report
+https://www.heraldscotland.com/news/26734391.think-tanks-call-give-scotlands-regions-powers/?ref=rss
+
+5. 人気コメディー番組の舞台公演が決定しました。
+Still Game Live to return to Glasgow's Hydro with 10 performances of new show
+https://www.heraldscotland.com/news/26734823.still-game-live-return-glasgows-ovo-hydro-2028/?ref=rss
+
+6. スコットランドの有力紙ザヘラルドがお得な年間購読セールを実施中です。
+Get a whole year of The Herald from just £20 this Black Friday
+https://www.heraldscotland.com/news/26728476.whole-year-herald-just-20-black-friday/?ref=rss
+
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261117.mp3" length="7115564" type="audio/mpeg" /><itunes:duration>7:24</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261117.txt" type="text/plain" language="ja" /></item><item><title>20261115 - スコットランドで起きた交通事故の影響で道路が通行止めになっています。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261115.html</link><guid isPermaLink="false">scotnews_20261115</guid><pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
 
 1. スコットランドで起きた交通事故の影響で道路が通行止めになっています。⚡
 Person hospitalised after two-car crash on Dumbarton Road
@@ -155,30 +181,4 @@ https://news.stv.tv/sport/this-is-an-embarrassment-wouter-vrancken-rages-after-h
 Seven killed and more than 100 injured in train collision in Egypt
 https://news.stv.tv/world/seven-killed-and-more-than-100-injured-in-train-collision-in-egypt
 
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261108.mp3" length="7030700" type="audio/mpeg" /><itunes:duration>7:19</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261108.txt" type="text/plain" language="ja" /></item><item><title>20261106 - スコットランドの夜間警備で花火を使った騒動が発生しました。</title><link>https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261106.html</link><guid isPermaLink="false">scotnews_20261106</guid><pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate><itunes:author>KM</itunes:author><itunes:explicit>no</itunes:explicit><itunes:summary>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。</itunes:summary><description>スコットランドの現地ニュースを日本語に翻訳して平日朝に配信。独自のニュース解説もつけています。
-
-1. スコットランドの夜間警備で花火を使った騒動が発生しました。⚡⚡
-Fireworks launched at police as Bonfire Night disorder kicks off
-https://www.thenational.scot/news/26704165.edinburgh-bonfire-night-disorder-sees-fireworks-fired-police/?ref=rss
-
-2. スコットランドのネス湖周辺でビーバーの野生復帰事業が始まりました。
-Beavers return to Loch Ness after 500 years in major rewilding project
-https://www.heraldscotland.com/news/26702693.beavers-return-loch-ness-catchment-500-years/?ref=rss
-
-3. スコットランドのイベント会社がドローンショー運営企業を買収しました。
-21CC Group acquires Edinburgh drone firm in £2.1 million expansion plan
-https://www.heraldscotland.com/news/26703849.21cc-group-acquires-edinburgh-drone-firm-skyshows/?ref=rss
-
-4. スコットランドで花火を使った暴動が発生し警察車両が炎上しました。
-Police car set alight in Glasgow amid Bonfire Night trouble
-https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&amp;at_campaign=rss
-
-5. グラスゴーの病院が世界で初めて小児専用の手術ロボットを導入しました。
-Glasgow children's hospital begins robot-assisted surgeries
-https://www.bbc.co.uk/news/articles/c8x23z3wqwppo?at_medium=RSS&amp;at_campaign=rss
-
-6. アレックスファーガソン元監督のマンチェスターユナイテッド就任から四十年が経ちました。
-'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd
-https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&amp;at_campaign=rss
-
-</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261106.mp3" length="7966508" type="audio/mpeg" /><itunes:duration>8:17</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261106.txt" type="text/plain" language="ja" /></item></channel></rss>
+</description><enclosure url="https://d1lize5iazh5ig.cloudfront.net/scotnews_20261108.mp3" length="7030700" type="audio/mpeg" /><itunes:duration>7:19</itunes:duration><podcast:transcript url="https://lhr385.github.io/podcast/scotnews/episode/scotnews_20261108.txt" type="text/plain" language="ja" /></item></channel></rss>
